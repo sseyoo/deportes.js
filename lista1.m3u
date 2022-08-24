@@ -1,4 +1,6 @@
-EXTM3U 
+EXTM3U
+#EXTINF:-1 tvg-id="https://github.com/sseyoo/deportes.js" tvg-name="by sseyoo web:tv" tvg-logo="nologo" tvg-chno="0" group-title="creador", By sseyoo web:tv
+https://github.com/sseyoo/deportes.js
 #EXTINF:-1 tvg-id="https://phdchorus.ucas.ac.cn/paper-proxy/browse.php?u=https%3A%2F%2Fantonieta.ga%2F&b=4&f=norefer" tvg-name="antonieta.ga" tvg-logo="nologo" tvg-chno="0" group-title="Guía Canales", Antonieta guía canales
 https://phdchorus.ucas.ac.cn/paper-proxy/browse.php?u=https%3A%2F%2Fantonieta.ga%2F&b=4&f=norefer
 #EXTINF:-1 tvg-id="http://192.168.1.22:6878/ace/getstream?id=4a92829d3999190dcc11118c5388132b19ac5175" tvg-name="VAMOS FHD 1080 ACESTREAM" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/f/f3/Realmadridtv.jpg" group-title="@lucas_moom" tvg-chno="1", VAMOS FHD 1080
