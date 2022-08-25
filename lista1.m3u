@@ -249,3 +249,4 @@ http://192.168.1.22:6878/ace/manifest.m3u8?id=65da3c02a26f49da2e44652cea25580052
 http://192.168.1.22:6878/ace/manifest.m3u8?id=b9b5a52abc21a74cd082649c946ea94fe13f80fa
 #EXTINF:-1 tvg-id="3" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="ace_deportes",3 
 http://192.168.1.22:6878/ace/manifest.m3u8?id=9da24d440f0d023b127a1dd18ae1ebbe29ed6f9e
+
