@@ -7,7 +7,7 @@ https://phdchorus.ucas.ac.cn/paper-proxy/browse.php?u=https%3A%2F%2Fantonieta.ga
 http://192.168.1.22:6878/ace/getstream?id=4a92829d3999190dcc11118c5388132b19ac5175
 #EXTINF:-1 tvg-id="http://192.168.1.22:6878/ace/getstream?id=c81fb4bec54fed86737544c5609bb863b4acb292" tvg-name="M LIGA FHD 1080P ACESTREAM" tvg-logo="http://i.ytimg.com/vi/OfyLSV1wnwo/maxresdefault.jpg" group-title="@lucas_moom" tvg-chno="3", M LIGA FHD 1080P ACESTREAM
 http://192.168.1.22:6878/ace/getstream?id=c81fb4bec54fed86737544c5609bb863b4acb292
-#EXTINF:-1 tvg-id="http://192.168.1.22:6878/ace/getstream?id=aa9e353457d273108ec57dc1a449d66defb66b6a" tvg-name="TVG FHD 1080P ACESTREAM" tvg-logo="http://i.ytimg.com/vi/OfyLSV1wnwo/maxresdefault.jpg" group-title="creador" tvg-chno="3", TVG FHD 1080P ACESTREAM
+#EXTINF:-1 tvg-id="http://192.168.1.22:6878/ace/getstream?id=aa9e353457d273108ec57dc1a449d66defb66b6a" tvg-name="TVG FHD 1080P ACESTREAM" tvg-logo="http://i.ytimg.com/vi/OfyLSV1wnwo/maxresdefault.jpg" group-title="creador" tvg-chno="4", TVG FHD 1080P ACESTREAM
 http://192.168.1.22:6878/ace/getstream?id=aa9e353457d273108ec57dc1a449d66defb66b6a
 #EXTINF:-1,M LIGA FHD ACESTREAM
 http://192.168.1.22:6878/ace/manifest.m3u8?id=ea9ebc82e0214166e7ff1b207cc243d3b0d8bc25
