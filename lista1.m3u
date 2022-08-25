@@ -3,8 +3,8 @@ EXTM3U
 https://www.socialcreator.com/webtvbox/?s=185041
 #EXTINF:-1 tvg-id="https://phdchorus.ucas.ac.cn/paper-proxy/browse.php?u=https%3A%2F%2Fantonieta.ga%2F&b=4&f=norefer" tvg-name="antonieta.ga" tvg-logo="https://e7.pngegg.com/pngimages/861/853/png-clipart-twitch-tv-yandere-simulator-streaming-media-amazon-prime-live-television-purple-angle-thumbnail.png" tvg-chno="1" group-title="Guía Canales", Antonieta guía canales
 https://phdchorus.ucas.ac.cn/paper-proxy/browse.php?u=https%3A%2F%2Fantonieta.ga%2F&b=4&f=norefer
-#EXTINF:-1 tvg-id="http://192.168.1.22:6878/ace/getstream?id=4a92829d3999190dcc11118c5388132b19ac5175" tvg-name="VAMOS FHD 1080 ACESTREAM" tvg-logo="https://comunicacion.movistarplus.es/wp-content/uploads/2018/08/Captura.jpg?width=200&height=200" group-title="@lucas_moom" tvg-chno="2", VAMOS FHD 1080
-http://192.168.1.22:6878/ace/getstream?id=
+#EXTINF:-1 tvg-id="http://192.168.1.22:6878/ace/getstream?id069431a1199eb2545a14c0a724095e57bdc58e9c" tvg-name="VAMOS FHD 1080 ACESTREAM" tvg-logo="https://comunicacion.movistarplus.es/wp-content/uploads/2018/08/Captura.jpg?width=200&height=200" group-title="@lucas_moom" tvg-chno="2", VAMOS FHD 1080
+http://192.168.1.22:6878/ace/getstream?id=069431a1199eb2545a14c0a724095e57bdc58e9c
 #EXTINF:-1 tvg-id="http://192.168.1.22:6878/ace/getstream?id=c81fb4bec54fed86737544c5609bb863b4acb292" tvg-name="M LIGA FHD 1080P ACESTREAM" tvg-logo="http://i.ytimg.com/vi/OfyLSV1wnwo/maxresdefault.jpg" group-title="@lucas_moom" tvg-chno="3", M LIGA FHD 1080P ACESTREAM
 http://192.168.1.22:6878/ace/getstream?id=c81fb4bec54fed86737544c5609bb863b4acb292
 #EXTINF:-1 tvg-id="http://192.168.1.22:6878/ace/getstream?id=aa9e353457d273108ec57dc1a449d66defb66b6a" tvg-name="TVG FHD 1080P ACESTREAM" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="creador" tvg-chno="4", TVG FHD 1080P ACESTREAM
