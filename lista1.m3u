@@ -86,7 +86,7 @@ http://192.168.1.22:6878/ace/manifest.m3u8?id=a0465ef421f30d0c68ff706654147762ec
 #EXTINF:-1 tvg-id="DAZN F1 1080 (Fórmula 1)" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="acestream_channels",DAZN F1 1080 (Fórmula 1) 
 http://192.168.1.22:6878/ace/manifest.m3u8?id=c372020ed2744033f56548b6beb11a9f3e740f37
 #EXTINF:-1 tvg-id="DAZN F1 720 (Fórmula 1)" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="acestream_channels",DAZN F1 720 (Fórmula 1) 
-http://192.168.1.22:6878/ace/manifest.m3u8?id=12e7fb26141ec4a6d99588e0e870a1a441b37f83
+http://192.168.1.22:6878/ace/manifest.m3u8?id=5c2c4c9d12d5ae042d41f886edfd2bfd3cec18a2
 #EXTINF:-1 tvg-id="EuroSport 1 1080" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="acestream_channels",EuroSport 1 1080 
 http://192.168.1.22:6878/ace/manifest.m3u8?id=40da37534656efcc6179c1b7693335d5e8212e43
 #EXTINF:-1 tvg-id="EuroSport 2 1080" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="acestream_channels",EuroSport 2 1080 
@@ -226,7 +226,7 @@ http://192.168.1.22:6878/ace/manifest.m3u8?id=958a228fbcdac80a19cd3d88ef402c0e50
 #EXTINF:-1 tvg-id="tudn" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="acestream_channels",tudn 
 http://192.168.1.22:6878/ace/manifest.m3u8?id=da68ee02776cd18de9727bb1e6eb88c3d5cbe1b2
 #EXTINF:-1 tvg-id="7" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="acestream_channels",7 
-http://192.168.1.22:6878/ace/manifest.m3u8?id=75d20d85da02925145beb734038791e59622952c
+http://192.168.1.22:6878/ace/manifest.m3u8?id=5853ff69c8588fe23ff5555261d4a43e6ad2f1ae
 #EXTINF:-1 tvg-id="3" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="acestream_channels",3 
 http://192.168.1.22:6878/ace/manifest.m3u8?id=b6035d6c3e25776479b5000ece8a080dd8b4c679
 #EXTINF:-1 tvg-id="4" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" group-title="acestream_channels",4 
