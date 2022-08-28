@@ -1,4 +1,4 @@
-EXTM3U  http://192.168.1.22:6878/ace/getstream?id=
+EXTM3U  http://
 #EXTINF:-1 tvg-id="https://www.socialcreator.com/webtvbox/?s=185041" tvg-name="by sseyoo web:tv" tvg-logo="https://motos.pontgrup.com/wp-content/uploads/2020/10/derbi-variant-1082x500.jpg?width=200&height=200" tvg-chno="0" group-title="creador", By sseyoo web:tv
 https://www.socialcreator.com/webtvbox/?s=185041
 #EXTINF:-1 tvg-id="https://phdchorus.ucas.ac.cn/paper-proxy/browse.php?u=https%3A%2F%2Fantonieta.ga%2F&b=4&f=norefer" tvg-name="antonieta.ga" tvg-logo="https://e7.pngegg.com/pngimages/861/853/png-clipart-twitch-tv-yandere-simulator-sacestream_channelsing-media-amazon-prime-live-television-purple-angle-thumbnail.png" tvg-chno="1" group-title="Guía Canales", Antonieta guía canales
