@@ -301,13 +301,13 @@ http://192.168.1.22:6878/ace/getstream?id=49acacbbbcf33be6e843958ceedc7da8dd4f14
 http://192.168.1.22:6878/ace/getstream?id=c47f756750190e4b2a9eefe8afdac48a2203b8d6
 #EXTINF:-1 tvg-id="M+DEPORTES3" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-3-2502.png" group-title="M+ Deportes" ,M+ Deportes 3
 http://192.168.1.22:6878/ace/getstream?id=85bd65161dfd8c4033194da3c978c0450c9111db
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" group-title="M+ Deportes" ,M+ Deportes 4
+#EXTINF:-1 tvg-id="M+DEPORTES3" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" group-title="M+ Deportes" ,M+ Deportes 4
 http://192.168.1.22:6878/ace/getstream?id=0c8935087510ee1c5117243a6cc46f9d6d795faf
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" group-title="M+ Deportes" ,M+ Deportes 5
+#EXTINF:-1 tvg-id="M+DEPORTES3" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" group-title="M+ Deportes" ,M+ Deportes 5
 http://192.168.1.22:6878/ace/getstream?id=478833f6390f04e95c6d94180a784b78ad540d2f
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" group-title="M+ Deportes" ,M+ Deportes 7
+#EXTINF:-1 tvg-id="M+DEPORTES3" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" group-title="M+ Deportes" ,M+ Deportes 7
 http://192.168.1.22:6878/ace/getstream?id=5da3c25c14d111cb9c33cf6e0b45b7cab88fe741
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" group-title="M+ Deportes" ,M+ Deportes 8
+#EXTINF:-1 tvg-id="M+DEPORTES3" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" group-title="M+ Deportes" ,M+ Deportes 8
 http://192.168.1.22:6878/ace/getstream?id=b779e6056975e3682a804d47cbd5cc806217f64d
 #EXTINF:-1 tvg-id="M+ GOLF HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-golf-368.png" group-title="M+ Deportes" ,M+ Golf 1080
 http://192.168.1.22:6878/ace/getstream?id=4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
@@ -319,39 +319,39 @@ http://192.168.1.22:6878/ace/getstream?id=c22bfcc2a70b2a3f447d9b30c52e617946b038
 http://192.168.1.22:6878/ace/getstream?id=c81fb4bec54fed86737544c5609bb863b4acb292
 #EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" group-title="M+ LaLiga" ,M+ LaLiga 720
 http://192.168.1.22:6878/ace/getstream?id=df139bbcd7ae6825b46d5955c52d639f1215346a
-#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M+ LaLiga 720
+#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" group-title="M+ LaLiga" ,M+ LaLiga 720
 http://192.168.1.22:6878/ace/getstream?id=d8512e64f34a117afb656f5c66cf8d88023c9570
-#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M+ LaLiga 720
+#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" group-title="M+ LaLiga" ,M+ LaLiga 720
 http://192.168.1.22:6878/ace/getstream?id=894752653acf2be34d9c8ae3b42f3894f58d1a74
-#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M+ LaLiga 720
+#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" group-title="M+ LaLiga" ,M+ LaLiga 720
 http://192.168.1.22:6878/ace/getstream?id=d5c864a71052159a3dc86d040023bcdb7b736ad0
-#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M+ LaLiga 720
+#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" group-title="M+ LaLiga" ,M+ LaLiga 720
 http://192.168.1.22:6878/ace/getstream?id=bbd20072e7123a3ac6dd156c5e67789d8ed1bcfa
-#EXTINF:-1 group-title="M+ LaLiga" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1-1835.png" ,M+ LaLiga 1 1080 multiaudio
+#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1-1835.png" group-title="M+ LaLiga" ,M+ LaLiga 1 1080 multiaudio
 http://192.168.1.22:6878/ace/getstream?id=4229d640fecf3c0897674241bcf851b67f4310e3
-#EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV" tvg-logo="https://i.postimg.cc/Njyrk4sJ/ligasmartbank.png" ,M+ LaLiga Smartbank 1080 multiaudio
+#EXTINF:-1 tvg-id="LaLiga SmartbankTV" tvg-logo="https://i.postimg.cc/Njyrk4sJ/ligasmartbank.png" group-title="M+ LaLiga Smartbank" ,M+ LaLiga Smartbank 1080 multiaudio
 http://192.168.1.22:6878/ace/getstream?id=d4fa689e575f7626c8b136c9ad8685b945d3cccf
-#EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV" tvg-logo="https://i.postimg.cc/Njyrk4sJ/ligasmartbank.png" ,M+ LaLiga Smartbank 1080
+#EXTINF:-1 tvg-id="LaLiga SmartbankTV" tvg-logo="https://i.postimg.cc/Njyrk4sJ/ligasmartbank.png" group-title="M+ LaLiga Smartbank" ,M+ LaLiga Smartbank 1080
 http://192.168.1.22:6878/ace/getstream?id=738e1db1791e44c62e87b8b1d8a3623bc7579c1c
-#EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV" tvg-logo="https://i.postimg.cc/Njyrk4sJ/ligasmartbank.png" ,M+ LaLiga Smartbank 720
+#EXTINF:-1 tvg-id="LaLiga SmartbankTV" tvg-logo="https://i.postimg.cc/Njyrk4sJ/ligasmartbank.png" group-title="M+ LaLiga Smartbank" ,M+ LaLiga Smartbank 720
 http://192.168.1.22:6878/ace/getstream?id=24b85e8cdd5031e6752a8da2d1c8bbee19b0b3b3
-#EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-logo="https://i.postimg.cc/Njyrk4sJ/ligasmartbank.png" ,M+ LaLiga Smartbank M2 1080
+#EXTINF:-1 tvg-id="LaLiga SmartbankTV" tvg-logo="https://i.postimg.cc/Njyrk4sJ/ligasmartbank.png" group-title="M+ LaLiga Smartbank" ,M+ LaLiga Smartbank M2 1080
 http://192.168.1.22:6878/ace/getstream?id=d475208e72b5a343080afa0724c7b7c42264b9a0
-#EXTINF:-1 group-title="M+ LaLiga TV BAR" tvg-id="LALIGATV BAR" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-laligatv-bar-2505.png" ,M+ LaLiga TV BAR 1080
+#EXTINF:-1 tvg-id="LALIGATV BAR" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-laligatv-bar-2505.png" group-title="M+ LaLiga TV BAR" ,M+ LaLiga TV BAR 1080
 http://192.168.1.22:6878/ace/getstream?id=01b333b9369c662775902638ef8cffac346a0f61
-#EXTINF:-1 group-title="M+ LaLiga TV BAR" tvg-id="LALIGATV BAR" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-laligatv-bar-2505.png" ,M+ LaLiga TV BAR 720
+#EXTINF:-1 tvg-id="LALIGATV BAR" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-laligatv-bar-2505.png" group-title="M+ LaLiga TV BAR" ,M+ LaLiga TV BAR 720
 http://192.168.1.22:6878/ace/getstream?id=fce88ddb0aca4a0869ecd23bdf0bddc288d95260
-#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M+ Liga de Campeones 1080 multiaudio
+#EXTINF:-1 tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" group-title="M+ Liga de Campeones" ,M+ Liga de Campeones 1080 multiaudio
 http://192.168.1.22:6878/ace/getstream?id=aedf221240a0f8513d90b555bf1b6e5306ac1e76
-#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M+ Liga de Campeones 720
+#EXTINF:-1 tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" group-title="M+ Liga de Campeones" ,M+ Liga de Campeones 720
 http://192.168.1.22:6878/ace/getstream?id=f8d89bf80b813631e6eb85fc8c185b00fe9ab88d
-#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M+ Liga de Campeones
+#EXTINF:-1 tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" group-title="M+ Liga de Campeones" ,M+ Liga de Campeones
 http://192.168.1.22:6878/ace/getstream?id=c2cd03703ed2a6039668778cb4a36544a7c951ed
-#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEON2" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-2-1460.png" ,M+ Liga de Campeones 2 1080 multiaudio
+#EXTINF:-1 tvg-id="M+LCAMPEON2" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-2-1460.png" group-title="M+ Liga de Campeones" ,M+ Liga de Campeones 2 1080 multiaudio
 http://192.168.1.22:6878/ace/getstream?id=9b76d0739f87555ccd3f42fc8e548762a0b94c28
-#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEON3" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-3-1548.png" ,M+ Liga de Campeones 3
+#EXTINF:-1 tvg-id="M+LCAMPEON3" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-3-1548.png" group-title="M+ Liga de Campeones" ,M+ Liga de Campeones 3
 http://192.168.1.22:6878/ace/getstream?id=f2b785193cfa99c581287be39e2fb5a73827957b
-#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEON4" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-4-1549.png" ,M+ Liga de Campeones 4
+#EXTINF:-1 tvg-id="M+LCAMPEON4" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-4-1549.png" group-title="M+ Liga de Campeones" ,M+ Liga de Campeones 4
 http://192.168.1.22:6878/ace/getstream?id=a5d22610cb7bd5608c14249e3984bacb54dfe487
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEON5" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-5-1550.png" ,M+ Liga de Campeones 5
 http://192.168.1.22:6878/ace/getstream?id=8446f55486c0d8c39c7dda19f8dfb071ddca4c94
