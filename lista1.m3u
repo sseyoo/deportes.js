@@ -325,15 +325,15 @@ http://192.168.1.22:6878/ace/getstream?id=b41d52a733be6f4709db3bdf33e260de2b67d2
 http://192.168.1.22:6878/ace/getstream?id=693eaac59852e51d467dc88a890be2456230935d
 #EXTINF:-1 tvg-id="NAT GEO HD 720" group-title="acestream_channels" tvg-id="NAT GEO HD" tvg-logo="https://i.postimg.cc/CMb7QnfM/natgeo.png" ,National Geographic 720
 http://192.168.1.22:6878/ace/getstream?id=887d91ccc27fd4f3097d6df09448ea7bac8910f4
-#EXTINF:-1 group-title="acestream_channels" tvg-id="NAT GEO HD" tvg-logo="https://i.postimg.cc/CMb7QnfM/natgeo.png" ,National Geographic
+#EXTINF:-1 tvg-id="NAT GEO HD" group-title="acestream_channels" tvg-id="NAT GEO HD" tvg-logo="https://i.postimg.cc/CMb7QnfM/natgeo.png" ,National Geographic
 http://192.168.1.22:6878/ace/getstream?id=29e2e33e0bee34dd96f1966cfcc0b433f9987fd2
-#EXTINF:-1 group-title="acestream_channels" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-pt-sport-tv-1-450.png" ,Sport TV 1 1080
+#EXTINF:-1 tvg-id="SPORT TV 1" group-title="acestream_channels" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-pt-sport-tv-1-450.png" ,Sport TV 1 1080
 http://192.168.1.22:6878/ace/getstream?id=56bb17b376ec52b5e58679d87ed2bd9e70be2175
-#EXTINF:-1 group-title="acestream_channels" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-pt-sport-tv-2-451.png" ,Sport TV 2 1080
+#EXTINF:-1 tvg-id="SPORT TV 2" group-title="acestream_channels" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-pt-sport-tv-2-451.png" ,Sport TV 2 1080
 http://192.168.1.22:6878/ace/getstream?id=b402a5fc3d93860c7f4a9c46463ff5469b6436f6
-#EXTINF:-1 group-title="acestream_channels" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-pt-sport-tv-3-452.png" ,Sport TV 3 720
+#EXTINF:-1 tvg-id="SPORT TV 3" group-title="acestream_channels" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-pt-sport-tv-3-452.png" ,Sport TV 3 720
 http://192.168.1.22:6878/ace/getstream?id=3c81c395fc9385c650e0fba8c286935c594f7e1a
-#EXTINF:-1 group-title="acestream_channels" tvg-id="TELECINCO HD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a907.png" ,Telecinco 1080
+#EXTINF:-1 tvg-id="TELECINCO Z" group-title="acestream_channels" tvg-id="TELECINCO HD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a907.png" ,Telecinco 1080
 http://192.168.1.22:6878/ace/getstream?id=3441c0e7a316b4e19b818f546aaa480cfa90bd83
-#EXTINF:-1 group-title="acestream_channels" tvg-id="TELEDEPORTE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-teledeporte-612.png" ,Teledeporte 720
+#EXTINF:-1 tvg-id="TELEDEPORTE Z" group-title="acestream_channels" tvg-id="TELEDEPORTE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-teledeporte-612.png" ,Teledeporte 720
 http://192.168.1.22:6878/ace/getstream?id=a537d162cb8c5cfa72c09be09ecac69e2f2cc535
