@@ -337,7 +337,8 @@ http://192.168.1.22:6878/ace/getstream?id=3c81c395fc9385c650e0fba8c286935c594f7e
 http://192.168.1.22:6878/ace/getstream?id=3441c0e7a316b4e19b818f546aaa480cfa90bd83
 #EXTINF:-1 tvg-id="TELEDEPORTE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-teledeporte-612.png" group-title="acestream_channels" ,Teledeporte 720
 http://192.168.1.22:6878/ace/getstream?id=a537d162cb8c5cfa72c09be09ecac69e2f2cc535
-#EXTINF:-1 tvg-id="MOTO GP FHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-teledeporte-612.png" group-title="acestream_channels" ,MOTO GP FHD 1080
+#EXTINF:-1 tvg-id="MOTO GP FHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-teledeporte-612.png" group-title="acestream_channels" ,MOTO GP FHD
 http://192.168.1.22:6878/ace/getstream?id=d4d4200a1e52fc23940b2dde915600af7e9a6b05
-#EXTINF:-1 tvg-id="MOTO GP HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-teledeporte-612.png" group-title="acestream_channels" ,MOTO GP HD 720
+#EXTINF:-1 tvg-id="MOTO GP HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-teledeporte-612.png" group-title="acestream_channels" ,MOTO GP HD
 http://192.168.1.22:6878/ace/getstream?id=9f27ea73230f9c65034601636dbfe39de43a8212
+
