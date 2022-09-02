@@ -1,7 +1,9 @@
 EXTM3U
-#EXTINF:-1 tvg-id="Llenos de gracia" tvg-name="Llenos de gracia" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/llenos-de-gracia-cartel-fotogramas-1648629951.jpg" group-title=", Peliculas"Llenos de gracia
+#EXTINF:-1 tvg-id="https://www.socialcreator.com/webtvbox/?s=185041" tvg-name="by sseyoo web:tv" tvg-logo="https://motos.pontgrup.com/wp-content/uploads/2020/10/derbi-variant-1082x500.jpg?width=200&height=200" tvg-chno="0" group-title="Peliculas", By sseyoo web:tv
+https://www.socialcreator.com/webtvbox/?s=185041
+#EXTINF:-1 tvg-id="Llenos de gracia" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/llenos-de-gracia-cartel-fotogramas-1648629951.jpg" group-title=", Peliculas"Llenos de gracia
 http://192.168.1.22:6878/ace/getstream?id=2d405c96607abb858a9d8aebdf46160e52d653f8
-#EXTINF:-1 tvg-id="El hombre del norte" tvg-name="El hombre del norte" tvg-logo="https://es.web.img3.acsta.net/pictures/22/03/30/17/33/2402670.jpg" group-title="Peliculas", El hombre del norte
+#EXTINF:-1 tvg-id="El hombre del norte" tvg-logo="https://es.web.img3.acsta.net/pictures/22/03/30/17/33/2402670.jpg" group-title="Peliculas", El hombre del norte
 http://192.168.1.22:6878/ace/getstream?id=617e6ffc6529da7f0fe19c95645f4f8f3ccd5edc
 #EXTINF:-1 tvg-id="Top Gun Maverick" tvg-logo="https://www.elseptimoarte.net/imagenes/noticias/116710.jpg" group-title="Peliculas", Top Gun Maverick
 http://192.168.1.22:6878/ace/getstream?id=674f2f051b486f488e9ce06bd0374fb89f0b1c74
