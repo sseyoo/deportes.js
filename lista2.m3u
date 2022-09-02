@@ -1,4 +1,4 @@
-#EXTM3U
+EXTM3U
 #EXTINF:-1, tvg-id="Llenos de gracia" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/llenos-de-gracia-cartel-fotogramas-1648629951.jpg" group-title="Peliculas",Llenos de gracia
 http://192.168.1.22:6878/ace/getstream?id=2d405c96607abb858a9d8aebdf46160e52d653f8
 #EXTINF:-1, tvg-id="El hombre del norte" tvg-logo="https://es.web.img3.acsta.net/pictures/22/03/30/17/33/2402670.jpg" group-title="Peliculas",El hombre del norte
