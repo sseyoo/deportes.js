@@ -1,11 +1,11 @@
 EXTM3U
-#EXTINF:-1 tvg-id="Llenos de gracia" tvg-name="Llenos de gracia" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/llenos-de-gracia-cartel-fotogramas-1648629951.jpg" group-title="Peliculas"Llenos de gracia
+#EXTINF:-1 tvg-id="Llenos de gracia" tvg-name="Llenos de gracia" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/llenos-de-gracia-cartel-fotogramas-1648629951.jpg" group-title=", Peliculas"Llenos de gracia
 http://192.168.1.22:6878/ace/getstream?id=2d405c96607abb858a9d8aebdf46160e52d653f8
-#EXTINF:-1 tvg-id="El hombre del norte" tvg-name="El hombre del norte" tvg-logo="https://es.web.img3.acsta.net/pictures/22/03/30/17/33/2402670.jpg" group-title="Peliculas"El hombre del norte
+#EXTINF:-1 tvg-id="El hombre del norte" tvg-name="El hombre del norte" tvg-logo="https://es.web.img3.acsta.net/pictures/22/03/30/17/33/2402670.jpg" group-title="Peliculas", El hombre del norte
 http://192.168.1.22:6878/ace/getstream?id=617e6ffc6529da7f0fe19c95645f4f8f3ccd5edc
-#EXTINF:-1 tvg-id="Top Gun Maverick" tvg-logo="https://www.elseptimoarte.net/imagenes/noticias/116710.jpg" group-title="Peliculas"Top Gun Maverick
+#EXTINF:-1 tvg-id="Top Gun Maverick" tvg-logo="https://www.elseptimoarte.net/imagenes/noticias/116710.jpg" group-title="Peliculas", Top Gun Maverick
 http://192.168.1.22:6878/ace/getstream?id=674f2f051b486f488e9ce06bd0374fb89f0b1c74
-#EXTINF:-1 tvg-id="Lightyear" tvg-logo="https://www.ecartelera.com/carteles/16600/16616/004_m.jpg" group-title="Infantil"Lightyear
+#EXTINF:-1 tvg-id="Lightyear" tvg-logo="https://www.ecartelera.com/carteles/16600/16616/004_m.jpg" group-title="Infantil", Lightyear
 http://192.168.1.22:6878/ace/getstream?id=2e4e639ed19da271934a84187f2a576f2ba75043
 #EXTINF:-1 tvg-id="1x1 She-Hulk" tvg-logo="https://es.web.img3.acsta.net/pictures/22/08/05/10/36/5613951.jpg" group-title="She-Hulk"1x1 She-Hulk
 http://192.168.1.22:6878/ace/getstream?id=2426da28dab01ef2f2af5a2184cd4d80bb1b8675
