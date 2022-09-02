@@ -1,0 +1,409 @@
+#EXTM3U
+
+#EXTINF:-1, tvg-id="Llenos de gracia" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/llenos-de-gracia-cartel-fotogramas-1648629951.jpg" group-title="Peliculas",Llenos de gracia
+http://127.0.0.1:6878/ace/getstream?id=2d405c96607abb858a9d8aebdf46160e52d653f8
+
+#EXTINF:-1, tvg-id="El hombre del norte" tvg-logo="https://es.web.img3.acsta.net/pictures/22/03/30/17/33/2402670.jpg" group-title="Peliculas",El hombre del norte
+http://127.0.0.1:6878/ace/getstream?id=617e6ffc6529da7f0fe19c95645f4f8f3ccd5edc
+
+#EXTINF:-1, tvg-id="Top Gun Maverick" tvg-logo="https://www.elseptimoarte.net/imagenes/noticias/116710.jpg" group-title="Peliculas",Top Gun Maverick
+http://127.0.0.1:6878/ace/getstream?id=674f2f051b486f488e9ce06bd0374fb89f0b1c74
+
+#EXTINF:-1, tvg-id="Lightyear" tvg-logo="https://www.ecartelera.com/carteles/16600/16616/004_m.jpg" group-title="Infantil",Lightyear
+http://127.0.0.1:6878/ace/getstream?id=2e4e639ed19da271934a84187f2a576f2ba75043
+
+#EXTINF:-1, tvg-id="1x1 She-Hulk" tvg-logo="https://es.web.img3.acsta.net/pictures/22/08/05/10/36/5613951.jpg" group-title="She-Hulk",1x1 She-Hulk
+http://127.0.0.1:6878/ace/getstream?id=2426da28dab01ef2f2af5a2184cd4d80bb1b8675
+
+#EXTINF:-1, tvg-id="1x2 She-Hulk" tvg-logo="https://es.web.img3.acsta.net/pictures/22/08/05/10/36/5613951.jpg" group-title="She-Hulk",1x2 She-Hulk
+http://127.0.0.1:6878/ace/getstream?id=2d5457b4e726a0e8c4eaf8f7cf97b61c2cd688d8
+
+#EXTINF:-1, tvg-id="El ascenso de las tortugas ninja" tvg-logo="https://pics.filmaffinity.com/El_ascenso_de_las_Tortugas_Ninja_La_pel_cula-127101117-large.jpg" group-title="Infantil",El ascenso de las tortugas ninja
+http://127.0.0.1:6878/ace/getstream?id=cfa0afc8d10e8592e273a8757e809563a6613152
+
+#EXTINF:-1, tvg-id="Live is life" tvg-logo="https://pics.filmaffinity.com/Live_is_Life_La_gran_aventura-838891361-large.jpg" group-title="Peliculas",Live is life
+http://127.0.0.1:6878/ace/getstream?id=7d10402fbe87dee625cb6941c51486bcec5e5740
+
+#EXTINF:-1, tvg-id="Turno de Dia" tvg-logo="https://es.web.img3.acsta.net/pictures/22/08/09/11/50/5432285.jpg" group-title="Peliculas",Turno de Dia
+http://127.0.0.1:6878/ace/getstream?id=20646fb542582a41e8e94eee4838de0f9f70137c
+
+#EXTINF:-1, tvg-id="Dog un viaje salvaje" tvg-logo="https://pics.filmaffinity.com/Dog_Un_viaje_salvaje-263685812-large.jpg" group-title="Peliculas",Dog un viaje salvaje
+http://127.0.0.1:6878/ace/getstream?id=b038fe73212ad60394e5e0776da5a45b7d9d492e
+
+#EXTINF:-1, tvg-id="Luck" tvg-logo="https://pics.filmaffinity.com/Luck-918375726-large.jpg" group-title="Infantil",Luck
+http://127.0.0.1:6878/ace/getstream?id=0b90c5576f78ff7f8a52321386b1642ef6cc65a9
+
+#EXTINF:-1, tvg-id="El agente invisible" tvg-logo="https://pics.filmaffinity.com/the_gray_man-486053339-large.jpg" group-title="Peliculas",El agente invisible
+http://127.0.0.1:6878/ace/getstream?id=8200748db85a8665661d88a4582fbb378d683271
+
+#EXTINF:-1, tvg-id="La ejecucion" tvg-logo="https://static.filmin.es/images/media/36956/5/poster_2_3.png" group-title="Peliculas",La ejecucion
+http://127.0.0.1:6878/ace/getstream?id=ebe3ae111ca4c1bc00f6b852527a3cc62cafc898
+
+#EXTINF:-1, tvg-id="Codigo Emperador" tvg-logo="https://pics.filmaffinity.com/C_digo_Emperador-542616770-mmed.jpg" group-title="Peliculas",Codigo Emperador
+http://127.0.0.1:6878/ace/getstream?id=61533b25fcdf02ee114a6e7050e442f932d6a0c7
+
+#EXTINF:-1, tvg-id="Juego de asesinos" tvg-logo="https://www.ecartelera.com/carteles/17100/17195/001.jpg" group-title="Peliculas",Juego de asesinos
+http://127.0.0.1:6878/ace/getstream?id=80771ffffa7a6889b62d390ff1e7f7f1c2656a1e
+
+#EXTINF:-1, tvg-id="Bull" tvg-logo="https://pics.filmaffinity.com/Bull-488921772-large.jpg" group-title="Peliculas",Bull
+http://127.0.0.1:6878/ace/getstream?id=9918533f9645018b60cf2709b9fd35def399be77
+
+#EXTINF:-1, tvg-id="Rhino" tvg-logo="https://www.loslunesseriefilos.com/wp-content/uploads/2022/07/critica-rhino-amff.jpg" group-title="Peliculas",Rhino
+http://127.0.0.1:6878/ace/getstream?id=68117fe2ba1ce4430e78bf5df0b5a5f47c028ad6
+
+#EXTINF:-1, tvg-id="1x1 La Casa Del Dragon" tvg-logo="https://es.web.img3.acsta.net/pictures/22/06/23/10/15/2869612.jpg" group-title="La Casa Del Dragon",1x1 La Casa Del Dragon
+http://127.0.0.1:6878/ace/getstream?id=6ab21156cc30237ac7a6cb3b7766516a85d1fe14
+
+#EXTINF:-1, tvg-id="1x2 La Casa Del Dragon" tvg-logo="https://es.web.img3.acsta.net/pictures/22/06/23/10/15/2869612.jpg" group-title="La Casa Del Dragon",1x2 La Casa Del Dragon
+http://127.0.0.1:6878/ace/getstream?id=908ed5ac3e162ac40156982b7e638cd2f2245eb2
+
+#EXTINF:-1, tvg-id="1x1 Tekken" tvg-logo="https://es.web.img2.acsta.net/pictures/22/08/15/09/32/0837461.jpg" group-title="Tekken",1x1 Tekken
+http://127.0.0.1:6878/ace/getstream?id=6ab21156cc30237ac7a6cb3b7766516a85d1fe14
+
+#EXTINF:-1, tvg-id="1x2 Tekken" tvg-logo="https://es.web.img2.acsta.net/pictures/22/08/15/09/32/0837461.jpg" group-title="Tekken",1x2 Tekken
+http://127.0.0.1:6878/ace/getstream?id=9701f524152180471d6401203e16c976e53512e2
+
+#EXTINF:-1, tvg-id="1x3 Tekken" tvg-logo="https://es.web.img2.acsta.net/pictures/22/08/15/09/32/0837461.jpg" group-title="Tekken",1x3 Tekken
+http://127.0.0.1:6878/ace/getstream?id=f69686d8656cb1c93e87bc91b768658137726814
+
+#EXTINF:-1, tvg-id="1x4 Tekken" tvg-logo="https://es.web.img2.acsta.net/pictures/22/08/15/09/32/0837461.jpg" group-title="Tekken",1x4 Tekken
+http://127.0.0.1:6878/ace/getstream?id=66c200f83a864aa3b1c17859c7e2c795ce8d98ea
+
+#EXTINF:-1, tvg-id="1x5 Tekken" tvg-logo="https://es.web.img2.acsta.net/pictures/22/08/15/09/32/0837461.jpg" group-title="Tekken",1x5 Tekken
+http://127.0.0.1:6878/ace/getstream?id=eef6bd1925f32f11bef196f8ddde82262e953fd7
+
+#EXTINF:-1, tvg-id="1x6 Tekken" tvg-logo="https://es.web.img2.acsta.net/pictures/22/08/15/09/32/0837461.jpg" group-title="Tekken",1x6 Tekken
+http://127.0.0.1:6878/ace/getstream?id=78d9a473ad010f0e341e8f3a88694c9afbcee3e5
+
+#EXTINF:-1, tvg-id="Camera Cafe" tvg-logo="https://www.ecartelera.com/carteles/15500/15564/001_m.jpg" group-title="Peliculas",Camera Café
+http://127.0.0.1:6878/ace/getstream?id=abb14da208ef4d2d3fc6946e7446e204425f8bb0
+
+#EXTINF:-1, tvg-id="Dios mio los niños han vuelto" tvg-logo="https://www.ecartelera.com/carteles/16700/16778/001_m.jpg" group-title="Peliculas",Dios mio los niños han vuelto
+http://127.0.0.1:6878/ace/getstream?id=7a63bafc5aba9cb31208c1b97590bbb07fb34d65
+
+#EXTINF:-1, tvg-id="El espía honesto" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/17/10/29/3748036.jpg" group-title="Peliculas",El espía honesto
+http://127.0.0.1:6878/ace/getstream?id=654fe7fc2f8791434a92caf3779e19f76a5b3dc7
+
+#EXTINF:-1, tvg-id="Tras la pista del asesino" tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/11/09/10/0237859.jpg" group-title="Peliculas",Tras la pista del asesino
+http://127.0.0.1:6878/ace/getstream?id=c65100e4192ea9a0878b8ce94f9978a80e088833
+
+#EXTINF:-1, tvg-id="Fátima" tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/20/03/27/12/57/1959315.jpg" group-title="Peliculas",Fátima
+http://127.0.0.1:6878/ace/getstream?id=cb38ca3eae121bf16eaf1b1724aa5107d6a266f8
+
+#EXTINF:-1, tvg-id="Un día para morir" tvg-logo="https://es.web.img2.acsta.net/pictures/22/02/25/09/54/1952217.jpg" group-title="Peliculas",Un día para morir
+http://127.0.0.1:6878/ace/getstream?id=ce60494b61fecb47fb9aa03344c4e14e5f1d60ba
+
+#EXTINF:-1, tvg-id="Ready player one" tvg-logo="https://pics.filmaffinity.com/Ready_Player_One-508487059-large.jpg" group-title="Peliculas",Ready player one
+http://127.0.0.1:6878/ace/getstream?id=ef2d363483e02b308556dc2d26fb95e9e22f263c
+
+#EXTINF:-1, tvg-id="Morbius" tvg-logo="https://es.web.img3.acsta.net/pictures/22/02/10/13/16/1386612.jpg" group-title="Peliculas",Morbius
+http://127.0.0.1:6878/ace/getstream?id=70c80241da73fe204188eda8a39d12854a2b24eb
+
+#EXTINF:-1, tvg-id="Despierta tigre" tvg-logo="https://pics.filmaffinity.com/Despierta_tigre-255123198-large.jpg" group-title="Peliculas",Despierta tigre
+http://127.0.0.1:6878/ace/getstream?id=e62e57ce4f143b4c693d53ad62f5c7d477bd92de
+
+#EXTINF:-1, tvg-id="En la Toscana" tvg-logo="https://decine21.com/img/upload/obras/en-la-toscana-45531/en-la-toscana-45531-c.jpg" group-title="Peliculas",En la Toscana
+http://127.0.0.1:6878/ace/getstream?id=02de4bf89be5d93552f852c6372246136745bf12
+
+#EXTINF:-1, tvg-id="Conspiración en Hollywood" tvg-logo="https://es.web.img3.acsta.net/pictures/22/02/24/23/00/0894390.png" group-title="Peliculas",Conspiración en Hollywood
+http://127.0.0.1:6878/ace/getstream?id=0d98127dc10509ad6f1c8d6a8116ad7b732c7f80
+
+#EXTINF:-1, tvg-id="Capitan Carver" tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/09/09/17/50/3914119.jpg" group-title="Peliculas",Capitan Carver
+http://127.0.0.1:6878/ace/getstream?id=e6d82ff1e437eb35c56c5b07a77be15a66bfa3bd
+
+#EXTINF:-1, tvg-id="Ariaferma" tvg-logo="https://es.web.img3.acsta.net/pictures/22/03/16/17/39/2900419.jpg" group-title="Peliculas",Ariaferma
+http://127.0.0.1:6878/ace/getstream?id=d7928705cf3b02fd2b5eca21a9143f0bef1b2e78
+
+#EXTINF:-1, tvg-id="El brindis" tvg-logo="https://es.web.img3.acsta.net/pictures/22/01/19/14/33/3087556.jpg" group-title="Peliculas",El brindis
+http://127.0.0.1:6878/ace/getstream?id=464ce8a5cdc37d50e2b544a23932081e6a19f3a8
+
+#EXTINF:-1, tvg-id="R.I.A" tvg-logo="https://pics.filmaffinity.com/R_I_A-696262881-large.jpg" group-title="Peliculas",R.I.A
+http://127.0.0.1:6878/ace/getstream?id=29b35b0c0e14e62f8e4f52f2eaddbfc854659e9d
+
+#EXTINF:-1, tvg-id="El dia de la bandera" tvg-logo="https://es.web.img2.acsta.net/pictures/21/10/08/13/14/3855646.jpg" group-title="Peliculas",El dia de la bandera
+http://127.0.0.1:6878/ace/getstream?id=83ffbe5e8967e552a00224e1944ff9a89fafaf89
+
+#EXTINF:-1, tvg-id="Cazador Blanco" tvg-logo="https://www.compucalitv.com/wp-content/uploads/2021/06/Persecucion-en-la-Nieve-2020-HD-1080p-Latino-Dual-Portada.jpg" group-title="Peliculas",Cazador Blanco
+http://127.0.0.1:6878/ace/getstream?id=100461294df29635ad81a5c8890f7a3dbdb875d4
+
+#EXTINF:-1, tvg-id="Lansky" tvg-logo="https://es.web.img2.acsta.net/pictures/21/07/02/14/26/4514865.jpg" group-title="Peliculas",Lansky
+http://127.0.0.1:6878/ace/getstream?id=9a1c1900c85291b4b1d4b12f9f57faf3fb4ae789
+
+#EXTINF:-1, tvg-id="Finch" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/20/16/12/1450650.jpg" group-title="Peliculas",Finch
+http://127.0.0.1:6878/ace/getstream?id=4801364704e8b109783b61ae2842615785aa2c30
+
+#EXTINF:-1, tvg-id="Sin respiro" tvg-logo="https://es.web.img3.acsta.net/pictures/22/02/04/08/52/5508154.jpg" group-title="Peliculas",Sin respiro
+http://127.0.0.1:6878/ace/getstream?id=aa7ada30bebeff725ad3329d3ed55adeea85a6d8
+
+#EXTINF:-1, tvg-id="Uncharted" tvg-logo="https://es.web.img3.acsta.net/pictures/22/01/13/15/49/5165456.jpg" group-title="Peliculas",Uncharted
+http://127.0.0.1:6878/ace/getstream?id=b9dd8f5800621868ee343bf669072c72a1547948
+
+#EXTINF:-1, tvg-id="Instinto peligroso" tvg-logo="https://pelispanda.eu/wp-content/uploads/2022/01/ubeZN7kWlr7Bl1OxdBPck43FhD3.jpg" group-title="Peliculas",Instinto peligroso
+http://127.0.0.1:6878/ace/getstream?id=58ca1b34d14d31f310a46c2115e6db17bc662878
+
+#EXTINF:-1, tvg-id="Lo dejo cuando quiera" tvg-logo="https://es.web.img2.acsta.net/pictures/19/04/01/18/32/1841477.jpg" group-title="Peliculas",Lo dejo cuando quiera
+http://127.0.0.1:6878/ace/getstream?id=a917ecca6705fd2e2786e5071e8d5c73d2eeac42
+
+#EXTINF:-1, tvg-id="La familia perfecta" tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/05/12/59/5755461.jpg" group-title="Peliculas",La familia perfecta
+http://127.0.0.1:6878/ace/getstream?id=43f66277fd16f7879e4065314ba9c263dd5f6a5f
+
+#EXTINF:-1, tvg-id="Cuarentones" tvg-logo="https://es.web.img3.acsta.net/pictures/22/01/13/00/27/3717813.jpg" group-title="Peliculas",Cuarentones
+http://127.0.0.1:6878/ace/getstream?id=4c04d7e8c3872400307c80fdcae1d21e4b7d16f7
+
+#EXTINF:-1, tvg-id="La casa Gucci" tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/10/10/42/1405636.jpg" group-title="Peliculas",La casa Gucci
+http://127.0.0.1:6878/ace/getstream?id=6687c874f1f9e91f52e7e34a17d467bacff0a69f
+
+#EXTINF:-1, tvg-id="Candida" tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/69/56/65/20064227.jpg" group-title="Peliculas",Candida
+http://127.0.0.1:6878/ace/getstream?id=ad1b8bd232eda8ea3a02fa2e62825a2082fe312b
+
+#EXTINF:-1, tvg-id="Maixabel" tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/29/17/41/0043453.jpg" group-title="Peliculas",Maixabel
+http://127.0.0.1:6878/ace/getstream?id=6febccec925887d2edc60ae80f24e99336b2fbc4
+
+#EXTINF:-1, tvg-id="Noche de fuego" tvg-logo="https://es.web.img3.acsta.net/pictures/21/07/06/21/28/0648856.jpg" group-title="Peliculas",Noche de fuego
+http://127.0.0.1:6878/ace/getstream?id=2914fd315ce1a37bca2357f499871f6a635f1b01
+
+#EXTINF:-1, tvg-id="El buen patron" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/15/17/50/1032058.jpg" group-title="Peliculas",El buen patron
+http://127.0.0.1:6878/ace/getstream?id=37bd750b1de16c220c9cc2e7de8a3b6dd6132a1f
+
+#EXTINF:-1, tvg-id="Virus 32" tvg-logo="https://pics.filmaffinity.com/Virus_32-812042263-large.jpg" group-title="Peliculas",Virus 32
+http://127.0.0.1:6878/ace/getstream?id=6f7a4ac2655527aaebd412736d166fc357109c24
+
+#EXTINF:-1, tvg-id="Neymar el caos perfecto" tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/15/19/33/3851620.jpg" group-title="Documental",Neymar el caos perfecto
+http://127.0.0.1:6878/ace/getstream?id=1adc2bb81c9d774a9e0f55fefbb5bcdb6466512d
+
+#EXTINF:-1, tvg-id="El robo del siglo" tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/05/10/49/3147329.jpg" group-title="Peliculas",El robo del siglo
+http://127.0.0.1:6878/ace/getstream?id=40a3be02ad2d1c7e87669fbf2f15295a7d3bdd9c
+
+#EXTINF:-1, tvg-id="Madres paralelas" tvg-logo="https://es.web.img2.acsta.net/pictures/21/09/01/14/44/3602108.jpg" group-title="Peliculas",Madres paralelas
+http://127.0.0.1:6878/ace/getstream?id=96972fdf86b0418f6d8ea6d95ae2b5cdcaac7f6f
+
+#EXTINF:-1, tvg-id="Uno para todos" tvg-logo="https://es.web.img2.acsta.net/pictures/20/07/14/13/43/1859697.jpg" group-title="Peliculas",Uno para todos
+http://127.0.0.1:6878/ace/getstream?id=a09940339292e18a525af4b99d3f9a6eb80df7c7
+
+#EXTINF:-1, tvg-id="Una noche a tope" tvg-logo="https://pictures.betaseries.com/films/affiches/es/103558.jpg" group-title="Peliculas",Una noche a tope
+http://127.0.0.1:6878/ace/getstream?id=9d7e7faf630f46534c7618f7c2efbd8950a27338
+
+#EXTINF:-1, tvg-id="Vida Salvaje" tvg-logo="https://es.web.img2.acsta.net/pictures/22/01/13/08/58/5419597.jpg" group-title="Peliculas",Vida Salvaje
+http://127.0.0.1:6878/ace/getstream?id=80592b980c43fc133c9e4bc98b2f21d36ce65c6e
+
+#EXTINF:-1, tvg-id="Incompatibles" tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/95/70/35/20489736.jpg" group-title="Peliculas",Incompatibles
+http://127.0.0.1:6878/ace/getstream?id=06d6aace33ca82d0b3898eb7137e3cec4eceffc2
+
+#EXTINF:-1, tvg-id="Incompatibles 2" tvg-logo="https://es.web.img2.acsta.net/pictures/22/03/17/21/16/0281984.png" group-title="Peliculas",Incompatibles 2
+http://127.0.0.1:6878/ace/getstream?id=72071e8702a3ea210489e3feaf7484d8c29b4914
+
+#EXTINF:-1, tvg-id="Garcia y Garcia" tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/07/26/10/39/0650122.jpg" group-title="Peliculas",Garcia y Garcia
+http://127.0.0.1:6878/ace/getstream?id=547e19f86000e47a1020c03d4ca1321a48268706
+
+#EXTINF:-1, tvg-id="Ghost in the Shell: Guerra sostenible" tvg-logo="https://es.web.img2.acsta.net/pictures/22/04/25/10/23/4919887.jpg" group-title="Peliculas",Ghost in the Shell: Guerra sostenible
+http://127.0.0.1:6878/ace/getstream?id=4f82c28f2bc3787d8f78f80c50206cd1b09429fe
+
+#EXTINF:-1, tvg-id="Dejate llevar" tvg-logo="https://es.web.img3.acsta.net/pictures/22/03/28/10/42/4269462.jpg" group-title="Peliculas",Dejate llevar
+http://127.0.0.1:6878/ace/getstream?id=c952caa364ff1b949779ba3c3b239a9577a516f5
+
+#EXTINF:-1, tvg-id="Clean" tvg-logo="https://es.web.img3.acsta.net/pictures/22/01/05/21/04/2676469.jpg" group-title="Peliculas",Clean
+http://127.0.0.1:6878/ace/getstream?id=5874f1a6bca885b7446ad14c2c5b19bc3fbddeb3
+
+#EXTINF:-1, tvg-id="Amor de madre" tvg-logo="https://es.web.img2.acsta.net/pictures/22/02/21/11/16/4244176.jpg" group-title="Peliculas",Amor de madre
+http://127.0.0.1:6878/ace/getstream?id=2636afeaa33c3f3aeb70ce813f37669969259886
+
+#EXTINF:-1, tvg-id="Otra ronda" tvg-logo="https://es.web.img3.acsta.net/pictures/21/03/17/14/33/4882786.jpg" group-title="Peliculas",Otra ronda
+http://127.0.0.1:6878/ace/getstream?id=4b6a8d82b0ee4116953164d9cd51cf11ca2e446d
+
+#EXTINF:-1, tvg-id="Gold" tvg-logo="https://es.web.img2.acsta.net/pictures/22/03/08/17/27/4936079.jpg" group-title="Peliculas",Gold
+http://127.0.0.1:6878/ace/getstream?id=319c1e4f3b4cfc7058986f788bed9b736acea60f
+
+#EXTINF:-1, tvg-id="Kimi" tvg-logo="https://es.web.img3.acsta.net/pictures/22/01/27/09/57/4248015.jpg" group-title="Peliculas",Kimi
+http://127.0.0.1:6878/ace/getstream?id=215754fe785083d36a624db53bc815a8bc96724b
+
+#EXTINF:-1, tvg-id="El proyecto Adam" tvg-logo="https://es.web.img3.acsta.net/pictures/22/03/01/15/19/5343614.jpg" group-title="Peliculas",El proyecto Adam
+http://127.0.0.1:6878/ace/getstream?id=7efbc7226cc0e7e667c63f86e40c14153785d30f
+
+#EXTINF:-1, tvg-id="Huida de Mogadiscio" tvg-logo="https://es.web.img2.acsta.net/pictures/21/07/14/02/12/1163330.jpg" group-title="Peliculas",Huida de Mogadiscio
+http://127.0.0.1:6878/ace/getstream?id=8a77ce7167eed7d7309810d02caa197e93ed7808
+
+#EXTINF:-1, tvg-id="The Batman" tvg-logo="https://es.web.img2.acsta.net/pictures/21/11/10/17/39/5549864.jpg" group-title="Peliculas",The Batman
+http://127.0.0.1:6878/ace/getstream?id=b21f036f4fa7a8cd8f677da7b2ba0d0103cc3fb6
+
+#EXTINF:-1, tvg-id="Las leyes de la frontera" tvg-logo="https://es.web.img2.acsta.net/pictures/21/07/28/11/29/4024483.jpg" group-title="Peliculas",Las leyes de la frontera
+http://127.0.0.1:6878/ace/getstream?id=8ac5b2bb8f741db37b83816dd8f957d0299b4c3b
+
+#EXTINF:-1, tvg-id="The Colony" tvg-logo="https://i.blogs.es/2540db/the-colony-cartel/450_1000.jpeg" group-title="Peliculas",The Colony
+http://127.0.0.1:6878/ace/getstream?id=257906bafcdf58266da6560264cf19846839a628
+
+#EXTINF:-1, tvg-id="Black Box" tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/10/14/53/2898467.jpg" group-title="Peliculas",Black Box
+http://127.0.0.1:6878/ace/getstream?id=4d745335dd2b072c2896986a029cac2570688933
+
+#EXTINF:-1, tvg-id="Hasta que nos volvamos a encontrar" tvg-logo="https://mx.web.img3.acsta.net/pictures/22/02/21/18/37/5656206.png" group-title="Peliculas",Hasta que nos volvamos a encontrar
+http://127.0.0.1:6878/ace/getstream?id=2e3f02313498a01b8d3a706778d1f1da5d70d7ad
+
+#EXTINF:-1, tvg-id="Jackass Forever" tvg-logo="https://es.web.img2.acsta.net/pictures/22/02/28/15/06/3504600.jpg" group-title="Peliculas",Jackass Forever
+http://127.0.0.1:6878/ace/getstream?id=fd8e17e9f0b98d1f71745047ba4462bc58f1cd58
+
+#EXTINF:-1, tvg-id="The Penthouse" tvg-logo="https://images.moviefit.me/t/b/387614-the-penthouse.jpg" group-title="Peliculas",The Penthouse
+http://127.0.0.1:6878/ace/getstream?id=8f95163c3b8f6316df393da589a5c998831f736f
+
+#EXTINF:-1, tvg-id="La octava clausula" tvg-logo="https://mx.web.img2.acsta.net/pictures/22/04/07/01/59/4607644.jpg" group-title="Peliculas",La octava clausula
+http://127.0.0.1:6878/ace/getstream?id=b76f7c38785dc1d3ddd0ae1d4131459343465efa
+
+#EXTINF:-1, tvg-id="Las reinas de los cupones" tvg-logo="https://es.web.img2.acsta.net/c_310_420/pictures/21/07/08/19/51/2440589.jpg" group-title="Peliculas",Las reinas de los cupones
+http://127.0.0.1:6878/ace/getstream?id=7b232108c55cdc75c15c851551e137c3592c871f
+
+#EXTINF:-1, tvg-id="Erase una vez en Euskadi" tvg-logo="https://es.web.img3.acsta.net/pictures/21/08/25/17/36/5584165.jpg" group-title="Peliculas",Erase una vez en Euskadi
+http://127.0.0.1:6878/ace/getstream?id=87358f7b88899076e4d96fb3830835e8428875b4
+
+#EXTINF:-1, tvg-id="Ferry" tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/06/13/54/5302395.jpg" group-title="Peliculas",Ferry
+http://127.0.0.1:6878/ace/getstream?id=473c503a9f47a64c6ab6809f49f03b9ba797ffdd
+
+#EXTINF:-1, tvg-id="Perdidos en el artico" tvg-logo="https://es.web.img3.acsta.net/pictures/22/01/14/07/31/1329417.jpg" group-title="Peliculas",Perdidos en el artico
+http://127.0.0.1:6878/ace/getstream?id=6648c3013b59ee610db212197b40b680285a9e00
+
+#EXTINF:-1, tvg-id="El taller" tvg-logo="https://www.dcine.org/sites/default/files/carteles/el-taller.jpg" group-title="Peliculas",El taller
+http://127.0.0.1:6878/ace/getstream?id=4aba1a86b6de86e9b72d646e2e634b43916f8814
+
+#EXTINF:-1, tvg-id="Jinetes de la justicia" tvg-logo="https://es.web.img3.acsta.net/pictures/21/06/14/10/33/2989010.jpg" group-title="Peliculas",Jinetes de la justicia
+http://127.0.0.1:6878/ace/getstream?id=31268f2bcf9aafebdd0ec15134211e2eaf971c1c
+
+#EXTINF:-1, tvg-id="Corre y dispara" tvg-logo="https://image.tmdb.org/t/p/w300/u0lDOmGmHZBLGXMDGaUA3005nt6.jpg" group-title="Peliculas",Corre y dispara
+http://127.0.0.1:6878/ace/getstream?id=06042df0a6693a7f08d15d637e7919ad55e4bc49
+
+#EXTINF:-1, tvg-id="Agentes 355" tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/26/11/01/2729746.jpg" group-title="Peliculas",Agentes 355
+http://127.0.0.1:6878/ace/getstream?id=935db5ed5af175fa9eb099ad22844893834d0646
+
+#EXTINF:-1, tvg-id="Metal Lords" tvg-logo="https://es.web.img2.acsta.net/pictures/22/03/14/09/21/0294631.jpg" group-title="Peliculas",Metal Lords
+http://127.0.0.1:6878/ace/getstream?id=c3f3e13bddb69cf4667dd17b399092458a9b5670
+
+#EXTINF:-1, tvg-id="800 Metros" tvg-logo="https://es.web.img3.acsta.net/pictures/22/03/10/11/40/5923131.jpg" group-title="Documental",800 Metros
+http://127.0.0.1:6878/ace/getstream?id=212832a49b2d8e6292665c78983b8a9d2f97f2cc
+
+#EXTINF:-1, tvg-id="Free Solo" tvg-logo="https://es.web.img2.acsta.net/pictures/18/09/07/00/28/4232756.jpg" group-title="Documental",Free Solo
+http://127.0.0.1:6878/ace/getstream?id=b27b36820d17b33146a2a7c569cbd7ef654d829e
+
+#EXTINF:-1, tvg-id="Bienvenidos a eden Temp1" tvg-logo="https://es.web.img3.acsta.net/pictures/22/04/12/00/58/3734814.jpg" group-title="Bienvenidos a eden",Bienvenidos a eden Temp1
+http://127.0.0.1:6878/ace/getstream?id=76f5a727b1ee277e58674f9409fee9dcbf485fc8
+
+#EXTINF:-1, tvg-id="Soy Georgina" tvg-logo="https://mx.web.img3.acsta.net/pictures/22/01/18/17/54/5865473.jpg" group-title="Soy Georgina",Soy Georgina
+http://127.0.0.1:6878/ace/getstream?id=cdfc77e8b22a2c4c2044fd563371d18dd4ab7edb
+
+#EXTINF:-1, tvg-id="La linea invisible Temp1" tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/03/11/05/5052442.jpg" group-title="La linea invisible",La linea invisible Temp1
+http://127.0.0.1:6878/ace/getstream?id=c63007fb768d8680f4f8863859344821dc4d5b30
+
+#EXTINF:-1, tvg-id="1x1 Outer Range" tvg-logo="https://es.web.img3.acsta.net/pictures/22/03/10/10/50/4518123.jpg" group-title="Outer Range",1x1 Outer Range
+http://127.0.0.1:6878/ace/getstream?id=a28521d8ee495758281cdeea7c32611dac7686bd
+
+#EXTINF:-1, tvg-id="1x2 Outer Range" tvg-logo="https://es.web.img3.acsta.net/pictures/22/03/10/10/50/4518123.jpg" group-title="Outer Range",1x2 Outer Range
+http://127.0.0.1:6878/ace/getstream?id=74a5e3a463365651bd67eb77de7773b0d009be73
+
+#EXTINF:-1, tvg-id="1x3 Outer Range" tvg-logo="https://es.web.img3.acsta.net/pictures/22/03/10/10/50/4518123.jpg" group-title="Outer Range",1x3 Outer Range
+http://127.0.0.1:6878/ace/getstream?id=ec7fedcb6b044bf5a4ebcd486825ac5cf33a392d
+
+#EXTINF:-1, tvg-id="1x4 Outer Range" tvg-logo="https://es.web.img3.acsta.net/pictures/22/03/10/10/50/4518123.jpg" group-title="Outer Range",1x4 Outer Range
+http://127.0.0.1:6878/ace/getstream?id=120d6e39389721cf00d180a22e2474ad71b47619
+
+#EXTINF:-1, tvg-id="1x5 Outer Range" tvg-logo="https://es.web.img3.acsta.net/pictures/22/03/10/10/50/4518123.jpg" group-title="Outer Range",1x5 Outer Range
+http://127.0.0.1:6878/ace/getstream?id=593be302ae798aab5495110753f7f3485cc6c66e
+
+#EXTINF:-1, tvg-id="1x6 Outer Range" tvg-logo="https://es.web.img3.acsta.net/pictures/22/03/10/10/50/4518123.jpg" group-title="Outer Range",1x6 Outer Range
+http://127.0.0.1:6878/ace/getstream?id=33d5c5a31faafde9820f0a2566fd3367d3a1beb9
+
+#EXTINF:-1, tvg-id="1x7 Outer Range" tvg-logo="https://es.web.img3.acsta.net/pictures/22/03/10/10/50/4518123.jpg" group-title="Outer Range",1x7 Outer Range
+http://127.0.0.1:6878/ace/getstream?id=d41dd7b8af10bd7621b815b09bb8f25a438c1f85
+
+#EXTINF:-1, tvg-id="1x1 Caballero Luna" tvg-logo="https://es.web.img3.acsta.net/pictures/22/03/11/14/40/2751057.jpg" group-title="Caballero Luna",1x1 Caballero Luna
+http://127.0.0.1:6878/ace/getstream?id=252b8131b515e6ef03b72e350259bff9c17aee2d
+
+#EXTINF:-1, tvg-id="1x2 Caballero Luna" tvg-logo="https://es.web.img3.acsta.net/pictures/22/03/11/14/40/2751057.jpg" group-title="Caballero Luna",1x2 Caballero Luna
+http://127.0.0.1:6878/ace/getstream?id=a082fe769d2f914aa4f1c0d94c20bba4d491b1e9
+
+#EXTINF:-1, tvg-id="1x3 Caballero Luna" tvg-logo="https://es.web.img3.acsta.net/pictures/22/03/11/14/40/2751057.jpg" group-title="Caballero Luna",1x3 Caballero Luna
+http://127.0.0.1:6878/ace/getstream?id=d97f7e129f2daac23bd2a0e30ac549bff24284c2
+
+#EXTINF:-1, tvg-id="1x4 Caballero Luna" tvg-logo="https://es.web.img3.acsta.net/pictures/22/03/11/14/40/2751057.jpg" group-title="Caballero Luna",1x4 Caballero Luna
+http://127.0.0.1:6878/ace/getstream?id=3cdfe7788decd15ff68c4dd5f827f3ca54ef8dbd
+
+#EXTINF:-1, tvg-id="1x5 Caballero Luna" tvg-logo="https://es.web.img3.acsta.net/pictures/22/03/11/14/40/2751057.jpg" group-title="Caballero Luna",1x5 Caballero Luna
+http://127.0.0.1:6878/ace/getstream?id=ffd5c9da17b7eb04467465f0fb6836d7e49d4f8c
+
+#EXTINF:-1, tvg-id="1x6 Caballero Luna" tvg-logo="https://es.web.img3.acsta.net/pictures/22/03/11/14/40/2751057.jpg" group-title="Caballero Luna",1x6 Caballero Luna
+http://127.0.0.1:6878/ace/getstream?id=d26e52b585f3382e50d24a406bcfafdd0e00ccbe
+
+#EXTINF:-1, tvg-id="Iron Man" tvg-logo="https://www.eslahoradelastortas.com/blog/media/2020/03/dcufbt6-d96c9fcc-bd4f-4d56-9882-c027728b6e36.png" group-title="Marvel",Iron Man
+http://127.0.0.1:6878/ace/getstream?id=fddb23ee00f64a5ed50067e484b81bf776dbbd0b
+
+#EXTINF:-1, tvg-id="El Increible Hulk" tvg-logo="https://senseianime.com/wp-content/uploads/2021/12/El-increble-Hulk_2329_poster_de_pel%C3%ADcula0.jpg" group-title="Marvel",El Increible Hulk 
+http://127.0.0.1:6878/ace/getstream?id=b067ed3c7fb1ceef7865d9862846f1bd1918d6f1
+
+#EXTINF:-1, tvg-id="Iron Man 2" tvg-logo="https://m.media-amazon.com/images/I/817QeVebCIL._SL1500_.jpg" group-title="Marvel",Iron Man 2 
+http://127.0.0.1:6878/ace/getstream?id=37e0d1d08bff5d8ee4110edf98978428e3f6f141
+
+#EXTINF:-1, tvg-id="Thor" tvg-logo="https://www.diariodesevilla.es/2019/04/19/cine/Cartel-Thor_1347176488_98594084_667x1001.jpg" group-title="Marvel",Thor 
+http://127.0.0.1:6878/ace/getstream?id=fceb050fea823d4f343cc71245583ca15ef45b06
+
+#EXTINF:-1, tvg-id="Capitan America: El Primer Vengador" tvg-logo="http://pm1.narvii.com/6882/a84d92124bb9319b31df2c4896f6431fc5bbd674r1-420-630v2_uhq.jpg" group-title="Marvel",Capitan America: El Primer Vengador 
+http://127.0.0.1:6878/ace/getstream?id=2994f08b3575398610cb57e3f745d4ec06fb40b4
+
+#EXTINF:-1, tvg-id="Los Vengadores" tvg-logo="https://w0.peakpx.com/wallpaper/995/944/HD-wallpaper-avengers-1-captain-america-hulk-iron-man-marvel-stark-thor.jpg" group-title="Marvel",Los Vengadores 
+http://127.0.0.1:6878/ace/getstream?id=a201038e13f41b539d44a593e1370c00cef3d426
+
+#EXTINF:-1, tvg-id="Iron Man 3" tvg-logo="https://www.cinemascomics.com/wp-content/uploads/2013/04/Ironman3-poster.jpg" group-title="Marvel",Iron Man 3 
+http://127.0.0.1:6878/ace/getstream?id=f36443ae9f3a247745d07200caf9e8537a3d8873
+
+#EXTINF:-1, tvg-id="Thor: El mundo oscuro" tvg-logo="https://static.posters.cz/image/750/marco-de-plastico-thor-2-teaser-i51314.jpg" group-title="Marvel",Thor: El mundo oscuro 
+http://127.0.0.1:6878/ace/getstream?id=1cca6f4ea961437ddf75eaa01ca24afc00a5669f
+
+#EXTINF:-1, tvg-id="Capitan America: El soldado de invierno" tvg-logo="https://es.web.img3.acsta.net/pictures/14/01/31/16/12/220933.jpg" group-title="Marvel",Capitan America: El soldado de invierno 
+http://127.0.0.1:6878/ace/getstream?id=0539c95427aee0cb1c631fb3811ec615b675c5fc
+
+#EXTINF:-1, tvg-id="Guardianes de la Galaxia" tvg-logo="https://es.web.img3.acsta.net/pictures/14/06/17/14/04/353959.jpg" group-title="Marvel",Guardianes de la Galaxia 
+http://127.0.0.1:6878/ace/getstream?id=c168beb91589c0d303814a470df03f95a1846af6
+
+#EXTINF:-1, tvg-id="Los Vengadores: Era de Ultron" tvg-logo="https://i.pinimg.com/736x/90/8c/57/908c57d7e7b4cc06cb8d22679875a52b.jpg" group-title="Marvel",Los Vengadores: Era de Ultron 
+http://127.0.0.1:6878/ace/getstream?id=8dda3f17e8d03853cbbb0da785903118e283c42d
+
+#EXTINF:-1, tvg-id="Ant-Man" tvg-logo="https://www.diariodesevilla.es/2019/04/19/cine/Cartel-Ant-Man_1347176473_98762558_667x964.jpg" group-title="Marvel",Ant-Man 
+http://127.0.0.1:6878/ace/getstream?id=a814eb9a039b88983e8a104d07b1c4ce06c636bf
+
+#EXTINF:-1, tvg-id="Capitan America: Civil War" tvg-logo="https://www.cinemascomics.com/wp-content/uploads/2016/03/Capit%C3%A1n-Am%C3%A9rica-Civil-War-poster.jpg" group-title="Marvel",Capitan America: Civil War 
+http://127.0.0.1:6878/ace/getstream?id=e72a00bea257d98308dee3e2b659638eafcace03
+
+#EXTINF:-1, tvg-id="Doctor Strange" tvg-logo="https://es.web.img2.acsta.net/pictures/16/10/26/08/45/139966.jpg" group-title="Marvel",Doctor Strange 
+http://127.0.0.1:6878/ace/getstream?id=9dd2509043809880c7143342fc81142f8e34be3f
+
+#EXTINF:-1, tvg-id="Guardianes de la Galaxia 2" tvg-logo="https://es.web.img3.acsta.net/pictures/17/03/09/14/11/154943.jpg" group-title="Marvel",Guardianes de la Galaxia 2 
+http://127.0.0.1:6878/ace/getstream?id=3fd67be54c77a07842cc901e3fb008fd9524dfab
+
+#EXTINF:-1, tvg-id="Spider-Man: Homecoming " tvg-logo="https://es.web.img2.acsta.net/pictures/17/06/19/14/01/130456.jpg" group-title="Marvel",Spider-Man: Homecoming  
+http://127.0.0.1:6878/ace/getstream?id=91e43729dedaed4ab6e709394521ef0406929d66
+
+#EXTINF:-1, tvg-id="Thor: Ragnarok" tvg-logo="https://i.pinimg.com/564x/e9/23/18/e923181cfdf8b18c0b255ee2470ee131.jpg" group-title="Marvel",Thor: Ragnarok 
+http://127.0.0.1:6878/ace/getstream?id=098879b59e5887b9f2aa886c175e6d08a5b36908
+
+#EXTINF:-1, tvg-id="Black Panther" tvg-logo="https://static.posters.cz/image/750/posters/black-panther-stance-i56196.jpg" group-title="Marvel",Black Panther 
+http://127.0.0.1:6878/ace/getstream?id=992637d7ab577a60771093052a638bed4c6947bf
+
+#EXTINF:-1, tvg-id="Los Vengadores: Infinity War" tvg-logo="https://es.web.img3.acsta.net/pictures/18/03/16/15/33/3988420.jpg" group-title="Marvel",Los Vengadores: Infinity War 
+http://127.0.0.1:6878/ace/getstream?id=2c439d5ee3f3e6d253e8b650c2bc08ab76ad0725
+
+#EXTINF:-1, tvg-id="Ant-Man y la Avispa" tvg-logo="https://es.web.img3.acsta.net/pictures/18/07/03/13/52/3276833.jpg" group-title="Marvel",Ant-Man y la Avispa
+http://127.0.0.1:6878/ace/getstream?id=99669c7e5f331a5debd7deeb8f551f27c1ba5385
+
+#EXTINF:-1, tvg-id="Capitana Marvel" tvg-logo="http://es.web.img2.acsta.net/r_1920_1080/pictures/18/12/03/11/56/5027832.jpg" group-title="Marvel",Capitana Marvel 
+http://127.0.0.1:6878/ace/getstream?id=67938be4fb064c9c7e49238aa1b84a336de3607d
+
+#EXTINF:-1, tvg-id="Vengadores: Endgame" tvg-logo="https://es.web.img2.acsta.net/pictures/19/03/26/17/22/0896830.jpg" group-title="Marvel",Vengadores: Endgame 
+http://127.0.0.1:6878/ace/getstream?id=2dfa402af8a6910663964cc7e50cce912c5b7a3b
+
+#EXTINF:-1, tvg-id="Spider-Man: Lejos de casa" tvg-logo="https://es.web.img3.acsta.net/pictures/19/06/04/09/41/5108791.jpg" group-title="Marvel",Spider-Man: Lejos de casa 
+http://127.0.0.1:6878/ace/getstream?id=01f58d9200263c1e3a4eec02546abc026b60715f
+
+#EXTINF:-1, tvg-id="Viuda Negra" tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/09/18/28/5915477.jpg" group-title="Marvel",Viuda Negra 
+http://127.0.0.1:6878/ace/getstream?id=dffdaa7591f26b06ee400b31e3e4edf563974dbc
+
+#EXTINF:-1, tvg-id="Shang-Chi y la leyenda de los diez anillos" tvg-logo="https://es.web.img2.acsta.net/pictures/21/05/25/14/03/2848457.jpg" group-title="Marvel",Shang-Chi y la leyenda de los diez anillos 
+http://127.0.0.1:6878/ace/getstream?id=ff4748cf99a37ec09a267172cb910427ac3e7f53
+
+#EXTINF:-1, tvg-id="Eternals" tvg-logo="https://es.web.img3.acsta.net/pictures/21/08/19/10/48/2250523.jpg" group-title="Marvel",Eternals 
+http://127.0.0.1:6878/ace/getstream?id=e6cb3e6683f3d4eb7766e11ab1ae95a5cacf0fee
+
+#EXTINF:-1, tvg-id="Spider-Man: No Way Home" tvg-logo="https://es.web.img2.acsta.net/pictures/21/12/01/12/07/0243323.jpg" group-title="Marvel",Spider-Man: No Way Home 
+http://127.0.0.1:6878/ace/getstream?id=6dff7ffba4e22e6787f6e3c91f9b1781047c688b
