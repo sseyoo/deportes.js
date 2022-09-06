@@ -30,7 +30,7 @@ http://192.168.1.22:6878/ace/getstream?id=8021cba61d1e0891a41a6c3334f947360000dc
 #EXTINF:-1 tvg-id="M. LaLiga 7 1080" tvg-logo="http://localhost:8080/devices/applications/acestream/icon.jpg" group-title="acestream_channels",M. LaLiga 7 1080 
 http://192.168.1.22:6878/ace/getstream?id=1c0bb99925a0d18e075c2fe2cd7cb50946554ab1
 #EXTINF:-1 tvg-id="DAZN LaLiga 1080 MultiAudio" tvg-logo="http://localhost:8080/devices/applications/acestream/icon.jpg" group-title="acestream_channels",DAZN LaLiga 1080 MultiAudio 
-http://192.168.1.22:6878/ace/getstream?id=df98650743f24a245c44cdf2851e57078f4c487a
+http://192.168.1.22:6878/ace/getstream?id=
 #EXTINF:-1 tvg-id="DAZN LaLiga 720" tvg-logo="http://localhost:8080/devices/applications/acestream/icon.jpg" group-title="acestream_channels",DAZN LaLiga 720 
 http://192.168.1.22:6878/ace/getstream?id=c35d2207792128fc0ae49c40e885c463f664dbce
 #EXTINF:-1 tvg-id="LaLiga Smartbank 1080" tvg-logo="http://localhost:8080/devices/applications/acestream/icon.jpg" group-title="acestream_channels",LaLiga Smartbank 1080 
