@@ -17,7 +17,7 @@ http://192.168.1.22:6878/ace/getstream?id=2e4e639ed19da271934a84187f2a576f2ba750
 http://192.168.1.22:6878/ace/getstream?id=2426da28dab01ef2f2af5a2184cd4d80bb1b8675
 #EXTINF:-1 tvg-id="1x2 She-Hulk" tvg-logo="https://es.web.img3.acsta.net/pictures/22/08/05/10/36/5613951.jpg" group-title="Series y", 1x2 She-Hulk
 http://192.168.1.22:6878/ace/getstream?id=2d5457b4e726a0e8c4eaf8f7cf97b61c2cd688d8
-#EXTINF:-1 tvg-id="El ascenso de las tortugas ninja" tvg-logo="https://pics.filmaffinity.com/El_ascenso_de_las_Tortugas_Ninja_La_pel_cula-127101117-large.jpg" group-title="Infantil", El ascenso de las tortugas ninja
+#EXTINF:-1 tvg-id"http://192.168.1.22:6878/ace/getstream?id=cfa0afc8d10e8592e273a8757e809563a6613152" tvg-name="El ascenso de las tortugas ninja" tvg-logo="https://pics.filmaffinity.com/El_ascenso_de_las_Tortugas_Ninja_La_pel_cula-127101117-large.jpg" group-title="Infantil", El ascenso de las tortugas ninja
 http://192.168.1.22:6878/ace/getstream?id=cfa0afc8d10e8592e273a8757e809563a6613152
 #EXTINF:-1 tvg-id="Live is life" tvg-logo="https://pics.filmaffinity.com/Live_is_Life_La_gran_aventura-838891361-large.jpg" group-title="Peliculas"Live is life
 http://192.168.1.22:6878/ace/getstream?id=7d10402fbe87dee625cb6941c51486bcec5e5740
