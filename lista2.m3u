@@ -1,9 +1,9 @@
 EXTM3U
 #EXTINF:-1 tvg-id="https://www.socialcreator.com/webtvbox/?s=185041" tvg-name="by sseyoo web:tv" tvg-logo="https://motos.pontgrup.com/wp-content/uploads/2020/10/derbi-variant-1082x500.jpg?width=200&height=200" tvg-chno="0" group-title="Peliculas", By sseyoo web:tv
 https://www.socialcreator.com/webtvbox/?s=185041
-#EXTINF:-1 tvg-id"http://192.168.1.22:6878/ace/getstream?id=82220e630b22e7af5b6191409399595c7ee4f50f" tvg-name="1x1 Los anillos de poder" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/los-anillos-de-poder-1642608036.jpg?width=200&height=200" group-title="Series", 1x1 Los añillos de poder
+#EXTINF:-1 tvg-id"http://192.168.1.22:6878/ace/getstream?id=82220e630b22e7af5b6191409399595c7ee4f50f" tvg-name="1x1 Los anillos de poder" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/los-anillos-de-poder-1642608036.jpg" group-title="Series", 1x1 Los añillos de poder
 http://192.168.1.22:6878/ace/getstream?id=82220e630b22e7af5b6191409399595c7ee4f50f
-#EXTINF:-1 tvg-id"http://192.168.1.22:6878/ace/getstream?id=701544f0c7bdac3c93f18244830a155bce157eda" tvg-name="1x2 Los añillos de poder" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/los-anillos-de-poder-1642608036.jpg?width=200&height=200" group-title="Series", 1x2 Los anillos de poder
+#EXTINF:-1 tvg-id"http://192.168.1.22:6878/ace/getstream?id=701544f0c7bdac3c93f18244830a155bce157eda" tvg-name="1x2 Los añillos de poder" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/los-anillos-de-poder-1642608036.jpg" group-title="Series", 1x2 Los anillos de poder
 http://192.168.1.22:6878/ace/getstream?id=701544f0c7bdac3c93f18244830a155bce157eda
 #EXTINF:-1 tvg-id="Llenos de gracia" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/llenos-de-gracia-cartel-fotogramas-1648629951.jpg" group-title="Peliculas", Llenos de gracia
 http://192.168.1.22:6878/ace/getstream?id=2d405c96607abb858a9d8aebdf46160e52d653f8
@@ -17,7 +17,7 @@ http://192.168.1.22:6878/ace/getstream?id=2e4e639ed19da271934a84187f2a576f2ba750
 http://192.168.1.22:6878/ace/getstream?id=2426da28dab01ef2f2af5a2184cd4d80bb1b8675
 #EXTINF:-1 tvg-id="1x2 She-Hulk" tvg-logo="https://es.web.img3.acsta.net/pictures/22/08/05/10/36/5613951.jpg" group-title="Series y", 1x2 She-Hulk
 http://192.168.1.22:6878/ace/getstream?id=2d5457b4e726a0e8c4eaf8f7cf97b61c2cd688d8
-#EXTINF:-1 tvg-id="El ascenso de las tortugas ninja" tvg-logo="https://pics.filmaffinity.com/El_ascenso_de_las_Tortugas_Ninja_La_pel_cula-127101117-large.jpg" group-title="Infantil"El ascenso de las tortugas ninja
+#EXTINF:-1 tvg-id="El ascenso de las tortugas ninja" tvg-logo="https://pics.filmaffinity.com/El_ascenso_de_las_Tortugas_Ninja_La_pel_cula-127101117-large.jpg" group-title="Infantil", El ascenso de las tortugas ninja
 http://192.168.1.22:6878/ace/getstream?id=cfa0afc8d10e8592e273a8757e809563a6613152
 #EXTINF:-1 tvg-id="Live is life" tvg-logo="https://pics.filmaffinity.com/Live_is_Life_La_gran_aventura-838891361-large.jpg" group-title="Peliculas"Live is life
 http://192.168.1.22:6878/ace/getstream?id=7d10402fbe87dee625cb6941c51486bcec5e5740
