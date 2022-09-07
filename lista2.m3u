@@ -1,9 +1,9 @@
 EXTM3U
 #EXTINF:-1 tvg-id="https://www.socialcreator.com/webtvbox/?s=185041" tvg-name="by sseyoo web:tv" tvg-logo="https://motos.pontgrup.com/wp-content/uploads/2020/10/derbi-variant-1082x500.jpg?width=200&height=200" tvg-chno="0" group-title="Peliculas", By sseyoo web:tv
 https://www.socialcreator.com/webtvbox/?s=185041
-#EXTINF:-1 tvg-id"http://192.168.1.22:6878/ace/getstream?id=82220e630b22e7af5b6191409399595c7ee4f50f" tvg-name="1x1 Los anillos de poder" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/los-anillos-de-poder-1642608036.jpg" group-title="Series", 1x1 Los añillos de poder
+#EXTINF:-1 tvg-id"http://192.168.1.22:6878/ace/getstream?id=82220e630b22e7af5b6191409399595c7ee4f50f" tvg-name="1x1 Los anillos de poder" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/los-anillos-de-poder-1642608036.jpg" group-title="Novedad", 1x1 Los añillos de poder
 http://192.168.1.22:6878/ace/getstream?id=82220e630b22e7af5b6191409399595c7ee4f50f
-#EXTINF:-1 tvg-id"http://192.168.1.22:6878/ace/getstream?id=701544f0c7bdac3c93f18244830a155bce157eda" tvg-name="1x2 Los añillos de poder" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/los-anillos-de-poder-1642608036.jpg" group-title="Series", 1x2 Los anillos de poder
+#EXTINF:-1 tvg-id"http://192.168.1.22:6878/ace/getstream?id=701544f0c7bdac3c93f18244830a155bce157eda" tvg-name="1x2 Los añillos de poder" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/los-anillos-de-poder-1642608036.jpg" group-title="Novedad", 1x2 Los anillos de poder
 http://192.168.1.22:6878/ace/getstream?id=701544f0c7bdac3c93f18244830a155bce157eda
 #EXTINF:-1 tvg-id="Llenos de gracia" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/llenos-de-gracia-cartel-fotogramas-1648629951.jpg" group-title="Peliculas", Llenos de gracia
 http://192.168.1.22:6878/ace/getstream?id=2d405c96607abb858a9d8aebdf46160e52d653f8
@@ -39,11 +39,11 @@ http://192.168.1.22:6878/ace/getstream?id=80771ffffa7a6889b62d390ff1e7f7f1c2656a
 http://192.168.1.22:6878/ace/getstream?id=9918533f9645018b60cf2709b9fd35def399be77
 #EXTINF:-1 tvg-id="Rhino" tvg-logo="https://www.loslunesseriefilos.com/wp-content/uploads/2022/07/critica-rhino-amff.jpg" group-title="Peliculas", Rhino
 http://192.168.1.22:6878/ace/getstream?id=68117fe2ba1ce4430e78bf5df0b5a5f47c028ad6
-#EXTINF:-1 tvg-id"http://192.168.1.22:6878/ace/getstream?id=6ab21156cc30237ac7a6cb3b7766516a85d1fe14" tvg-name="1x1 La Casa Del Dragon" tvg-logo="https://es.web.img3.acsta.net/pictures/22/06/23/10/15/2869612.jpg" group-title="Series", 1x1 La Casa Del Dragon
+#EXTINF:-1 tvg-id"http://192.168.1.22:6878/ace/getstream?id=6ab21156cc30237ac7a6cb3b7766516a85d1fe14" tvg-name="1x1 La Casa Del Dragon" tvg-logo="https://es.web.img3.acsta.net/pictures/22/06/23/10/15/2869612.jpg" group-title="Novedad", 1x1 La Casa Del Dragon
 http://192.168.1.22:6878/ace/getstream?id=6ab21156cc30237ac7a6cb3b7766516a85d1fe14
-#EXTINF:-1 tvg-id"http://192.168.1.22:6878/ace/getstream?id=908ed5ac3e162ac40156982b7e638cd2f2245eb2" tvg-name="1x2 La Casa Del Dragon" tvg-logo="https://es.web.img3.acsta.net/pictures/22/06/23/10/15/2869612.jpg" group-title="Series",1x2 La Casa Del Dragon
+#EXTINF:-1 tvg-id"http://192.168.1.22:6878/ace/getstream?id=908ed5ac3e162ac40156982b7e638cd2f2245eb2" tvg-name="1x2 La Casa Del Dragon" tvg-logo="https://es.web.img3.acsta.net/pictures/22/06/23/10/15/2869612.jpg" group-title="Novedad",1x2 La Casa Del Dragon
 http://192.168.1.22:6878/ace/getstream?id=908ed5ac3e162ac40156982b7e638cd2f2245eb2
-#EXTINF:-1 tvg-id"http://192.168.1.22:6878/ace/getstream?id=dcac4715dfeea3b3eb83902449a5d6abcd969f63" tvg-name="1x3 La Casa Del Dragon" tvg-logo="https://es.web.img3.acsta.net/pictures/22/06/23/10/15/2869612.jpg" group-title="series", 1x3 La Casa Del Dragon
+#EXTINF:-1 tvg-id"http://192.168.1.22:6878/ace/getstream?id=dcac4715dfeea3b3eb83902449a5d6abcd969f63" tvg-name="1x3 La Casa Del Dragon" tvg-logo="https://es.web.img3.acsta.net/pictures/22/06/23/10/15/2869612.jpg" group-title="Novedad", 1x3 La Casa Del Dragon
 http://192.168.1.22:6878/ace/getstream?id=dcac4715dfeea3b3eb83902449a5d6abcd969f63
 #EXTINF:-1 tvg-id="1x1 Tekken" tvg-logo="https://es.web.img2.acsta.net/pictures/22/08/15/09/32/0837461.jpg" group-title="Series", 1x1 Tekken
 http://192.168.1.22:6878/ace/getstream?id=6ab21156cc30237ac7a6cb3b7766516a85d1fe14
