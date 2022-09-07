@@ -15,29 +15,29 @@ http://192.168.1.22:6878/ace/getstream?id=674f2f051b486f488e9ce06bd0374fb89f0b1c
 http://192.168.1.22:6878/ace/getstream?id=2e4e639ed19da271934a84187f2a576f2ba75043
 #EXTINF:-1 tvg-id="1x1 She-Hulk" tvg-logo="https://es.web.img3.acsta.net/pictures/22/08/05/10/36/5613951.jpg" group-title="Series", 1x1 She-Hulk
 http://192.168.1.22:6878/ace/getstream?id=2426da28dab01ef2f2af5a2184cd4d80bb1b8675
-#EXTINF:-1 tvg-id="1x2 She-Hulk" tvg-logo="https://es.web.img3.acsta.net/pictures/22/08/05/10/36/5613951.jpg" group-title="Series y", 1x2 She-Hulk
+#EXTINF:-1 tvg-id="1x2 She-Hulk" tvg-logo="https://es.web.img3.acsta.net/pictures/22/08/05/10/36/5613951.jpg" group-title="Series", 1x2 She-Hulk
 http://192.168.1.22:6878/ace/getstream?id=2d5457b4e726a0e8c4eaf8f7cf97b61c2cd688d8
 #EXTINF:-1 tvg-id"El ascenso de las tortugas ninja" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/Rise_of_the_Teenage_Mutant_Ninja_Turtles_Poster.jpg/220px-Rise_of_the_Teenage_Mutant_Ninja_Turtles_Poster.jpg" group-title="Infantil", El ascenso de las tortugas ninja
 http://192.168.1.22:6878/ace/getstream?id=cfa0afc8d10e8592e273a8757e809563a6613152
-#EXTINF:-1 tvg-id="Live is life" tvg-logo="https://pics.filmaffinity.com/Live_is_Life_La_gran_aventura-838891361-large.jpg" group-title="Peliculas"Live is life
+#EXTINF:-1 tvg-id="Live is life" tvg-logo="https://pics.filmaffinity.com/Live_is_Life_La_gran_aventura-838891361-large.jpg" group-title=", Peliculas"Live is life
 http://192.168.1.22:6878/ace/getstream?id=7d10402fbe87dee625cb6941c51486bcec5e5740
-#EXTINF:-1 tvg-id="Turno de Dia" tvg-logo="https://es.web.img3.acsta.net/pictures/22/08/09/11/50/5432285.jpg" group-title="Peliculas"Turno de Dia
+#EXTINF:-1 tvg-id="Turno de Dia" tvg-logo="https://es.web.img3.acsta.net/pictures/22/08/09/11/50/5432285.jpg" group-title="Peliculas", Turno de Dia
 http://192.168.1.22:6878/ace/getstream?id=20646fb542582a41e8e94eee4838de0f9f70137c
-#EXTINF:-1 tvg-id="Dog un viaje salvaje" tvg-logo="https://pics.filmaffinity.com/Dog_Un_viaje_salvaje-263685812-large.jpg" group-title="Peliculas"Dog un viaje salvaje
+#EXTINF:-1 tvg-id="Dog un viaje salvaje" tvg-logo="https://pics.filmaffinity.com/Dog_Un_viaje_salvaje-263685812-large.jpg" group-title="Peliculas", Dog un viaje salvaje
 http://192.168.1.22:6878/ace/getstream?id=b038fe73212ad60394e5e0776da5a45b7d9d492e
-#EXTINF:-1 tvg-id="Luck" tvg-logo="https://pics.filmaffinity.com/Luck-918375726-large.jpg" group-title="Infantil"Luck
+#EXTINF:-1 tvg-id="Luck" tvg-logo="https://pics.filmaffinity.com/Luck-918375726-large.jpg" group-title=", Infantil"Luck
 http://192.168.1.22:6878/ace/getstream?id=0b90c5576f78ff7f8a52321386b1642ef6cc65a9
-#EXTINF:-1 tvg-id="El agente invisible" tvg-logo="https://pics.filmaffinity.com/the_gray_man-486053339-large.jpg" group-title="Peliculas"El agente invisible
+#EXTINF:-1 tvg-id="El agente invisible" tvg-logo="https://pics.filmaffinity.com/the_gray_man-486053339-large.jpg" group-title="Peliculas", El agente invisible
 http://192.168.1.22:6878/ace/getstream?id=8200748db85a8665661d88a4582fbb378d683271
-#EXTINF:-1 tvg-id="La ejecucion" tvg-logo="https://static.filmin.es/images/media/36956/5/poster_2_3.png" group-title="Peliculas"La ejecucion
+#EXTINF:-1 tvg-id="La ejecucion" tvg-logo="https://static.filmin.es/images/media/36956/5/poster_2_3.png" group-title="Peliculas", La ejecucion
 http://192.168.1.22:6878/ace/getstream?id=ebe3ae111ca4c1bc00f6b852527a3cc62cafc898
-#EXTINF:-1 tvg-id="Codigo Emperador" tvg-logo="https://pics.filmaffinity.com/C_digo_Emperador-542616770-mmed.jpg" group-title="Peliculas"Codigo Emperador
+#EXTINF:-1 tvg-id="Codigo Emperador" tvg-logo="https://pics.filmaffinity.com/C_digo_Emperador-542616770-mmed.jpg" group-title="Peliculas", Codigo Emperador
 http://192.168.1.22:6878/ace/getstream?id=61533b25fcdf02ee114a6e7050e442f932d6a0c7
-#EXTINF:-1 tvg-id="Juego de asesinos" tvg-logo="https://www.ecartelera.com/carteles/17100/17195/001.jpg" group-title="Peliculas"Juego de asesinos
+#EXTINF:-1 tvg-id="Juego de asesinos" tvg-logo="https://www.ecartelera.com/carteles/17100/17195/001.jpg" group-title="Peliculas", Juego de asesinos
 http://192.168.1.22:6878/ace/getstream?id=80771ffffa7a6889b62d390ff1e7f7f1c2656a1e
-#EXTINF:-1 tvg-id="Bull" tvg-logo="https://pics.filmaffinity.com/Bull-488921772-large.jpg" group-title="Peliculas"Bull
+#EXTINF:-1 tvg-id="Bull" tvg-logo="https://pics.filmaffinity.com/Bull-488921772-large.jpg" group-title=", Peliculas"Bull
 http://192.168.1.22:6878/ace/getstream?id=9918533f9645018b60cf2709b9fd35def399be77
-#EXTINF:-1 tvg-id="Rhino" tvg-logo="https://www.loslunesseriefilos.com/wp-content/uploads/2022/07/critica-rhino-amff.jpg" group-title="Peliculas"Rhino
+#EXTINF:-1 tvg-id="Rhino" tvg-logo="https://www.loslunesseriefilos.com/wp-content/uploads/2022/07/critica-rhino-amff.jpg" group-title="Peliculas", Rhino
 http://192.168.1.22:6878/ace/getstream?id=68117fe2ba1ce4430e78bf5df0b5a5f47c028ad6
 #EXTINF:-1 tvg-id"http://192.168.1.22:6878/ace/getstream?id=6ab21156cc30237ac7a6cb3b7766516a85d1fe14" tvg-name="1x1 La Casa Del Dragon" tvg-logo="https://es.web.img3.acsta.net/pictures/22/06/23/10/15/2869612.jpg" group-title="Series", 1x1 La Casa Del Dragon
 http://192.168.1.22:6878/ace/getstream?id=6ab21156cc30237ac7a6cb3b7766516a85d1fe14
