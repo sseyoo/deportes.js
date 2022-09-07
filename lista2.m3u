@@ -39,10 +39,12 @@ http://192.168.1.22:6878/ace/getstream?id=80771ffffa7a6889b62d390ff1e7f7f1c2656a
 http://192.168.1.22:6878/ace/getstream?id=9918533f9645018b60cf2709b9fd35def399be77
 #EXTINF:-1 tvg-id="Rhino" tvg-logo="https://www.loslunesseriefilos.com/wp-content/uploads/2022/07/critica-rhino-amff.jpg" group-title="Peliculas"Rhino
 http://192.168.1.22:6878/ace/getstream?id=68117fe2ba1ce4430e78bf5df0b5a5f47c028ad6
-#EXTINF:-1 tvg-id="1x1 La Casa Del Dragon" tvg-logo="https://es.web.img3.acsta.net/pictures/22/06/23/10/15/2869612.jpg" group-title="La Casa Del Dragon"1x1 La Casa Del Dragon
+#EXTINF:-1 tvg-id"http://192.168.1.22:6878/ace/getstream?id=6ab21156cc30237ac7a6cb3b7766516a85d1fe14" tvg-name="1x1 La Casa Del Dragon" tvg-logo="https://es.web.img3.acsta.net/pictures/22/06/23/10/15/2869612.jpg" group-title="Series", 1x1 La Casa Del Dragon
 http://192.168.1.22:6878/ace/getstream?id=6ab21156cc30237ac7a6cb3b7766516a85d1fe14
-#EXTINF:-1 tvg-id="1x2 La Casa Del Dragon" tvg-logo="https://es.web.img3.acsta.net/pictures/22/06/23/10/15/2869612.jpg" group-title="La Casa Del Dragon"1x2 La Casa Del Dragon
+#EXTINF:-1 tvg-id"http://192.168.1.22:6878/ace/getstream?id=908ed5ac3e162ac40156982b7e638cd2f2245eb2" tvg-name="1x2 La Casa Del Dragon" tvg-logo="https://es.web.img3.acsta.net/pictures/22/06/23/10/15/2869612.jpg" group-title="Series",1x2 La Casa Del Dragon
 http://192.168.1.22:6878/ace/getstream?id=908ed5ac3e162ac40156982b7e638cd2f2245eb2
+#EXTINF:-1 tvg-id"http://192.168.1.22:6878/ace/getstream?id=dcac4715dfeea3b3eb83902449a5d6abcd969f63" tvg-name="1x3 La Casa Del Dragon" tvg-logo="https://es.web.img3.acsta.net/pictures/22/06/23/10/15/2869612.jpg" group-title="series", 1x3 La Casa Del Dragon
+http://192.168.1.22:6878/ace/getstream?id=dcac4715dfeea3b3eb83902449a5d6abcd969f63
 #EXTINF:-1 tvg-id="1x1 Tekken" tvg-logo="https://es.web.img2.acsta.net/pictures/22/08/15/09/32/0837461.jpg" group-title="Series", 1x1 Tekken
 http://192.168.1.22:6878/ace/getstream?id=6ab21156cc30237ac7a6cb3b7766516a85d1fe14
 #EXTINF:-1 tvg-id="1x2 Tekken" tvg-logo="https://es.web.img2.acsta.net/pictures/22/08/15/09/32/0837461.jpg" group-title="Series", 1x2 Tekken
