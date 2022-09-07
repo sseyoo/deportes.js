@@ -3,7 +3,7 @@ EXTM3U
 https://www.socialcreator.com/webtvbox/?s=185041
 #EXTINF:-1 tvg-id"http://192.168.1.22:6878/ace/getstream?id=82220e630b22e7af5b6191409399595c7ee4f50f" tvg-name="1x1 Los anillos de poder" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/los-anillos-de-poder-1642608036.jpg" group-title="Series", 1x1 Los añillos de poder
 http://192.168.1.22:6878/ace/getstream?id=82220e630b22e7af5b6191409399595c7ee4f50f
-#EXTINF:-1 tvg-id="1x2 Los añillos de poder" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/los-anillos-de-poder-1642608036.jpg" group-title="Series", 1x2 Los anillos de poder
+#EXTINF:-1 tvg-id"http://192.168.1.22:6878/ace/getstream?id=701544f0c7bdac3c93f18244830a155bce157eda" tvg-name="1x2 Los añillos de poder" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/los-anillos-de-poder-1642608036.jpg" group-title="Series", 1x2 Los anillos de poder
 http://192.168.1.22:6878/ace/getstream?id=701544f0c7bdac3c93f18244830a155bce157eda
 #EXTINF:-1 tvg-id="Llenos de gracia" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/llenos-de-gracia-cartel-fotogramas-1648629951.jpg" group-title="Peliculas", Llenos de gracia
 http://192.168.1.22:6878/ace/getstream?id=2d405c96607abb858a9d8aebdf46160e52d653f8
