@@ -1,11 +1,11 @@
 EXTM3U
 #EXTINF:-1 tvg-id="https://www.socialcreator.com/webtvbox/?s=185041" tvg-name="by sseyoo web:tv" tvg-logo="https://motos.pontgrup.com/wp-content/uploads/2020/10/derbi-variant-1082x500.jpg?width=200&height=200" tvg-chno="0" group-title="Peliculas", By sseyoo web:tv
 https://www.socialcreator.com/webtvbox/?s=185041
-#EXTINF:-1 tvg-id="1x1 Los anillos de poder" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/los-anillos-de-poder-1642608036.jpg" group-title="Series"1x1 Los añillos de poder
+#EXTINF:-1 tvg-id="1x1 Los anillos de poder" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/los-anillos-de-poder-1642608036.jpg" group-title="Series", 1x1 Los añillos de poder
 http://192.168.1.22:6878/ace/getstream?id=82220e630b22e7af5b6191409399595c7ee4f50f
-#EXTINF:-1 tvg-id="1x2 Los añillos de poder" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/los-anillos-de-poder-1642608036.jpg" group-title="Series"1x2 Los anillos de poder
+#EXTINF:-1 tvg-id="1x2 Los añillos de poder" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/los-anillos-de-poder-1642608036.jpg" group-title="Series", 1x2 Los anillos de poder
 http://192.168.1.22:6878/ace/getstream?id=701544f0c7bdac3c93f18244830a155bce157eda
-#EXTINF:-1 tvg-id="Llenos de gracia" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/llenos-de-gracia-cartel-fotogramas-1648629951.jpg" group-title="Peliculas"Llenos de gracia
+#EXTINF:-1 tvg-id="Llenos de gracia" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/llenos-de-gracia-cartel-fotogramas-1648629951.jpg" group-title="Peliculas", Llenos de gracia
 http://192.168.1.22:6878/ace/getstream?id=2d405c96607abb858a9d8aebdf46160e52d653f8
 #EXTINF:-1 tvg-id="El hombre del norte" tvg-logo="https://es.web.img3.acsta.net/pictures/22/03/30/17/33/2402670.jpg" group-title="Peliculas", El hombre del norte
 http://192.168.1.22:6878/ace/getstream?id=617e6ffc6529da7f0fe19c95645f4f8f3ccd5edc
@@ -13,9 +13,9 @@ http://192.168.1.22:6878/ace/getstream?id=617e6ffc6529da7f0fe19c95645f4f8f3ccd5e
 http://192.168.1.22:6878/ace/getstream?id=674f2f051b486f488e9ce06bd0374fb89f0b1c74
 #EXTINF:-1 tvg-id="Lightyear" tvg-logo="https://www.ecartelera.com/carteles/16600/16616/004_m.jpg" group-title="Infantil", Lightyear
 http://192.168.1.22:6878/ace/getstream?id=2e4e639ed19da271934a84187f2a576f2ba75043
-#EXTINF:-1 tvg-id="1x1 She-Hulk" tvg-logo="https://es.web.img3.acsta.net/pictures/22/08/05/10/36/5613951.jpg" group-title="Series"1x1 She-Hulk
+#EXTINF:-1 tvg-id="1x1 She-Hulk" tvg-logo="https://es.web.img3.acsta.net/pictures/22/08/05/10/36/5613951.jpg" group-title="Series", 1x1 She-Hulk
 http://192.168.1.22:6878/ace/getstream?id=2426da28dab01ef2f2af5a2184cd4d80bb1b8675
-#EXTINF:-1 tvg-id="1x2 She-Hulk" tvg-logo="https://es.web.img3.acsta.net/pictures/22/08/05/10/36/5613951.jpg" group-title="Series y"1x2 She-Hulk
+#EXTINF:-1 tvg-id="1x2 She-Hulk" tvg-logo="https://es.web.img3.acsta.net/pictures/22/08/05/10/36/5613951.jpg" group-title="Series y", 1x2 She-Hulk
 http://192.168.1.22:6878/ace/getstream?id=2d5457b4e726a0e8c4eaf8f7cf97b61c2cd688d8
 #EXTINF:-1 tvg-id="El ascenso de las tortugas ninja" tvg-logo="https://pics.filmaffinity.com/El_ascenso_de_las_Tortugas_Ninja_La_pel_cula-127101117-large.jpg" group-title="Infantil"El ascenso de las tortugas ninja
 http://192.168.1.22:6878/ace/getstream?id=cfa0afc8d10e8592e273a8757e809563a6613152
@@ -43,17 +43,17 @@ http://192.168.1.22:6878/ace/getstream?id=68117fe2ba1ce4430e78bf5df0b5a5f47c028a
 http://192.168.1.22:6878/ace/getstream?id=6ab21156cc30237ac7a6cb3b7766516a85d1fe14
 #EXTINF:-1 tvg-id="1x2 La Casa Del Dragon" tvg-logo="https://es.web.img3.acsta.net/pictures/22/06/23/10/15/2869612.jpg" group-title="La Casa Del Dragon"1x2 La Casa Del Dragon
 http://192.168.1.22:6878/ace/getstream?id=908ed5ac3e162ac40156982b7e638cd2f2245eb2
-#EXTINF:-1 tvg-id="1x1 Tekken" tvg-logo="https://es.web.img2.acsta.net/pictures/22/08/15/09/32/0837461.jpg" group-title="Series"1x1 Tekken
+#EXTINF:-1 tvg-id="1x1 Tekken" tvg-logo="https://es.web.img2.acsta.net/pictures/22/08/15/09/32/0837461.jpg" group-title="Series", 1x1 Tekken
 http://192.168.1.22:6878/ace/getstream?id=6ab21156cc30237ac7a6cb3b7766516a85d1fe14
-#EXTINF:-1 tvg-id="1x2 Tekken" tvg-logo="https://es.web.img2.acsta.net/pictures/22/08/15/09/32/0837461.jpg" group-title="Series"1x2 Tekken
+#EXTINF:-1 tvg-id="1x2 Tekken" tvg-logo="https://es.web.img2.acsta.net/pictures/22/08/15/09/32/0837461.jpg" group-title="Series", 1x2 Tekken
 http://192.168.1.22:6878/ace/getstream?id=9701f524152180471d6401203e16c976e53512e2
-#EXTINF:-1 tvg-id="1x3 Tekken" tvg-logo="https://es.web.img2.acsta.net/pictures/22/08/15/09/32/0837461.jpg" group-title="Series"1x3 Tekken
+#EXTINF:-1 tvg-id="1x3 Tekken" tvg-logo="https://es.web.img2.acsta.net/pictures/22/08/15/09/32/0837461.jpg" group-title="Series", 1x3 Tekken
 http://192.168.1.22:6878/ace/getstream?id=f69686d8656cb1c93e87bc91b768658137726814
-#EXTINF:-1 tvg-id="1x4 Tekken" tvg-logo="https://es.web.img2.acsta.net/pictures/22/08/15/09/32/0837461.jpg" group-title="Series"1x4 Tekken
+#EXTINF:-1 tvg-id="1x4 Tekken" tvg-logo="https://es.web.img2.acsta.net/pictures/22/08/15/09/32/0837461.jpg" group-title="Series", 1x4 Tekken
 http://192.168.1.22:6878/ace/getstream?id=66c200f83a864aa3b1c17859c7e2c795ce8d98ea
-#EXTINF:-1 tvg-id="1x5 Tekken" tvg-logo="https://es.web.img2.acsta.net/pictures/22/08/15/09/32/0837461.jpg" group-title="Series"1x5 Tekken
+#EXTINF:-1 tvg-id="1x5 Tekken" tvg-logo="https://es.web.img2.acsta.net/pictures/22/08/15/09/32/0837461.jpg" group-title="Series", 1x5 Tekken
 http://192.168.1.22:6878/ace/getstream?id=eef6bd1925f32f11bef196f8ddde82262e953fd7
-#EXTINF:-1 tvg-id="1x6 Tekken" tvg-logo="https://es.web.img2.acsta.net/pictures/22/08/15/09/32/0837461.jpg" group-title="Series"1x6 Tekken
+#EXTINF:-1 tvg-id="1x6 Tekken" tvg-logo="https://es.web.img2.acsta.net/pictures/22/08/15/09/32/0837461.jpg" group-title="Series", 1x6 Tekken
 http://192.168.1.22:6878/ace/getstream?id=78d9a473ad010f0e341e8f3a88694c9afbcee3e5
 #EXTINF:-1 tvg-id="Camera Cafe" tvg-logo="https://www.ecartelera.com/carteles/15500/15564/001_m.jpg" group-title="Peliculas"Camera Café
 http://192.168.1.22:6878/ace/getstream?id=abb14da208ef4d2d3fc6946e7446e204425f8bb0
