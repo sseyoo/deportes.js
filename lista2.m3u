@@ -13,9 +13,9 @@ http://192.168.1.22:6878/ace/getstream?id=617e6ffc6529da7f0fe19c95645f4f8f3ccd5e
 http://192.168.1.22:6878/ace/getstream?id=674f2f051b486f488e9ce06bd0374fb89f0b1c74
 #EXTINF:-1 tvg-id="Lightyear" tvg-logo="https://www.ecartelera.com/carteles/16600/16616/004_m.jpg" group-title="Infantil", Lightyear
 http://192.168.1.22:6878/ace/getstream?id=2e4e639ed19da271934a84187f2a576f2ba75043
-#EXTINF:-1 tvg-id="1x1 She-Hulk" tvg-logo="https://es.web.img3.acsta.net/pictures/22/08/05/10/36/5613951.jpg" group-title="She-Hulk"1x1 She-Hulk
+#EXTINF:-1 tvg-id="1x1 She-Hulk" tvg-logo="https://es.web.img3.acsta.net/pictures/22/08/05/10/36/5613951.jpg" group-title="Series"1x1 She-Hulk
 http://192.168.1.22:6878/ace/getstream?id=2426da28dab01ef2f2af5a2184cd4d80bb1b8675
-#EXTINF:-1 tvg-id="1x2 She-Hulk" tvg-logo="https://es.web.img3.acsta.net/pictures/22/08/05/10/36/5613951.jpg" group-title="She-Hulk"1x2 She-Hulk
+#EXTINF:-1 tvg-id="1x2 She-Hulk" tvg-logo="https://es.web.img3.acsta.net/pictures/22/08/05/10/36/5613951.jpg" group-title="Series y"1x2 She-Hulk
 http://192.168.1.22:6878/ace/getstream?id=2d5457b4e726a0e8c4eaf8f7cf97b61c2cd688d8
 #EXTINF:-1 tvg-id="El ascenso de las tortugas ninja" tvg-logo="https://pics.filmaffinity.com/El_ascenso_de_las_Tortugas_Ninja_La_pel_cula-127101117-large.jpg" group-title="Infantil"El ascenso de las tortugas ninja
 http://192.168.1.22:6878/ace/getstream?id=cfa0afc8d10e8592e273a8757e809563a6613152
@@ -43,17 +43,17 @@ http://192.168.1.22:6878/ace/getstream?id=68117fe2ba1ce4430e78bf5df0b5a5f47c028a
 http://192.168.1.22:6878/ace/getstream?id=6ab21156cc30237ac7a6cb3b7766516a85d1fe14
 #EXTINF:-1 tvg-id="1x2 La Casa Del Dragon" tvg-logo="https://es.web.img3.acsta.net/pictures/22/06/23/10/15/2869612.jpg" group-title="La Casa Del Dragon"1x2 La Casa Del Dragon
 http://192.168.1.22:6878/ace/getstream?id=908ed5ac3e162ac40156982b7e638cd2f2245eb2
-#EXTINF:-1 tvg-id="1x1 Tekken" tvg-logo="https://es.web.img2.acsta.net/pictures/22/08/15/09/32/0837461.jpg" group-title="Tekken"1x1 Tekken
+#EXTINF:-1 tvg-id="1x1 Tekken" tvg-logo="https://es.web.img2.acsta.net/pictures/22/08/15/09/32/0837461.jpg" group-title="Series"1x1 Tekken
 http://192.168.1.22:6878/ace/getstream?id=6ab21156cc30237ac7a6cb3b7766516a85d1fe14
-#EXTINF:-1 tvg-id="1x2 Tekken" tvg-logo="https://es.web.img2.acsta.net/pictures/22/08/15/09/32/0837461.jpg" group-title="Tekken"1x2 Tekken
+#EXTINF:-1 tvg-id="1x2 Tekken" tvg-logo="https://es.web.img2.acsta.net/pictures/22/08/15/09/32/0837461.jpg" group-title="Series"1x2 Tekken
 http://192.168.1.22:6878/ace/getstream?id=9701f524152180471d6401203e16c976e53512e2
-#EXTINF:-1 tvg-id="1x3 Tekken" tvg-logo="https://es.web.img2.acsta.net/pictures/22/08/15/09/32/0837461.jpg" group-title="Tekken"1x3 Tekken
+#EXTINF:-1 tvg-id="1x3 Tekken" tvg-logo="https://es.web.img2.acsta.net/pictures/22/08/15/09/32/0837461.jpg" group-title="Series"1x3 Tekken
 http://192.168.1.22:6878/ace/getstream?id=f69686d8656cb1c93e87bc91b768658137726814
-#EXTINF:-1 tvg-id="1x4 Tekken" tvg-logo="https://es.web.img2.acsta.net/pictures/22/08/15/09/32/0837461.jpg" group-title="Tekken"1x4 Tekken
+#EXTINF:-1 tvg-id="1x4 Tekken" tvg-logo="https://es.web.img2.acsta.net/pictures/22/08/15/09/32/0837461.jpg" group-title="Series"1x4 Tekken
 http://192.168.1.22:6878/ace/getstream?id=66c200f83a864aa3b1c17859c7e2c795ce8d98ea
-#EXTINF:-1 tvg-id="1x5 Tekken" tvg-logo="https://es.web.img2.acsta.net/pictures/22/08/15/09/32/0837461.jpg" group-title="Tekken"1x5 Tekken
+#EXTINF:-1 tvg-id="1x5 Tekken" tvg-logo="https://es.web.img2.acsta.net/pictures/22/08/15/09/32/0837461.jpg" group-title="Series"1x5 Tekken
 http://192.168.1.22:6878/ace/getstream?id=eef6bd1925f32f11bef196f8ddde82262e953fd7
-#EXTINF:-1 tvg-id="1x6 Tekken" tvg-logo="https://es.web.img2.acsta.net/pictures/22/08/15/09/32/0837461.jpg" group-title="Tekken"1x6 Tekken
+#EXTINF:-1 tvg-id="1x6 Tekken" tvg-logo="https://es.web.img2.acsta.net/pictures/22/08/15/09/32/0837461.jpg" group-title="Series"1x6 Tekken
 http://192.168.1.22:6878/ace/getstream?id=78d9a473ad010f0e341e8f3a88694c9afbcee3e5
 #EXTINF:-1 tvg-id="Camera Cafe" tvg-logo="https://www.ecartelera.com/carteles/15500/15564/001_m.jpg" group-title="Peliculas"Camera Café
 http://192.168.1.22:6878/ace/getstream?id=abb14da208ef4d2d3fc6946e7446e204425f8bb0
@@ -197,31 +197,31 @@ http://192.168.1.22:6878/ace/getstream?id=76f5a727b1ee277e58674f9409fee9dcbf485f
 http://192.168.1.22:6878/ace/getstream?id=cdfc77e8b22a2c4c2044fd563371d18dd4ab7edb
 #EXTINF:-1 tvg-id="La linea invisible Temp1" tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/03/11/05/5052442.jpg" group-title="La linea invisible"La linea invisible Temp1
 http://192.168.1.22:6878/ace/getstream?id=c63007fb768d8680f4f8863859344821dc4d5b30
-#EXTINF:-1 tvg-id="1x1 Outer Range" tvg-logo="https://es.web.img3.acsta.net/pictures/22/03/10/10/50/4518123.jpg" group-title="Outer Range"1x1 Outer Range
+#EXTINF:-1 tvg-id="1x1 Outer Range" tvg-logo="https://es.web.img3.acsta.net/pictures/22/03/10/10/50/4518123.jpg" group-title="Series"1x1 Outer Range
 http://192.168.1.22:6878/ace/getstream?id=a28521d8ee495758281cdeea7c32611dac7686bd
-#EXTINF:-1 tvg-id="1x2 Outer Range" tvg-logo="https://es.web.img3.acsta.net/pictures/22/03/10/10/50/4518123.jpg" group-title="Outer Range"1x2 Outer Range
+#EXTINF:-1 tvg-id="1x2 Outer Range" tvg-logo="https://es.web.img3.acsta.net/pictures/22/03/10/10/50/4518123.jpg" group-title="Series"1x2 Outer Range
 http://192.168.1.22:6878/ace/getstream?id=74a5e3a463365651bd67eb77de7773b0d009be73
-#EXTINF:-1 tvg-id="1x3 Outer Range" tvg-logo="https://es.web.img3.acsta.net/pictures/22/03/10/10/50/4518123.jpg" group-title="Outer Range"1x3 Outer Range
+#EXTINF:-1 tvg-id="1x3 Outer Range" tvg-logo="https://es.web.img3.acsta.net/pictures/22/03/10/10/50/4518123.jpg" group-title="Series"1x3 Outer Range
 http://192.168.1.22:6878/ace/getstream?id=ec7fedcb6b044bf5a4ebcd486825ac5cf33a392d
-#EXTINF:-1 tvg-id="1x4 Outer Range" tvg-logo="https://es.web.img3.acsta.net/pictures/22/03/10/10/50/4518123.jpg" group-title="Outer Range"1x4 Outer Range
+#EXTINF:-1 tvg-id="1x4 Outer Range" tvg-logo="https://es.web.img3.acsta.net/pictures/22/03/10/10/50/4518123.jpg" group-title="Series"1x4 Outer Range
 http://192.168.1.22:6878/ace/getstream?id=120d6e39389721cf00d180a22e2474ad71b47619
-#EXTINF:-1 tvg-id="1x5 Outer Range" tvg-logo="https://es.web.img3.acsta.net/pictures/22/03/10/10/50/4518123.jpg" group-title="Outer Range"1x5 Outer Range
+#EXTINF:-1 tvg-id="1x5 Outer Range" tvg-logo="https://es.web.img3.acsta.net/pictures/22/03/10/10/50/4518123.jpg" group-title="Series"1x5 Outer Range
 http://192.168.1.22:6878/ace/getstream?id=593be302ae798aab5495110753f7f3485cc6c66e
-#EXTINF:-1 tvg-id="1x6 Outer Range" tvg-logo="https://es.web.img3.acsta.net/pictures/22/03/10/10/50/4518123.jpg" group-title="Outer Range"1x6 Outer Range
+#EXTINF:-1 tvg-id="1x6 Outer Range" tvg-logo="https://es.web.img3.acsta.net/pictures/22/03/10/10/50/4518123.jpg" group-title="Series"1x6 Outer Range
 http://192.168.1.22:6878/ace/getstream?id=33d5c5a31faafde9820f0a2566fd3367d3a1beb9
-#EXTINF:-1 tvg-id="1x7 Outer Range" tvg-logo="https://es.web.img3.acsta.net/pictures/22/03/10/10/50/4518123.jpg" group-title="Outer Range"1x7 Outer Range
+#EXTINF:-1 tvg-id="1x7 Outer Range" tvg-logo="https://es.web.img3.acsta.net/pictures/22/03/10/10/50/4518123.jpg" group-title="Series"1x7 Outer Range
 http://192.168.1.22:6878/ace/getstream?id=d41dd7b8af10bd7621b815b09bb8f25a438c1f85
-#EXTINF:-1 tvg-id="1x1 Caballero Luna" tvg-logo="https://es.web.img3.acsta.net/pictures/22/03/11/14/40/2751057.jpg" group-title="Caballero Luna"1x1 Caballero Luna
+#EXTINF:-1 tvg-id="1x1 Caballero Luna" tvg-logo="https://es.web.img3.acsta.net/pictures/22/03/11/14/40/2751057.jpg" group-title="Series"1x1 Caballero Luna
 http://192.168.1.22:6878/ace/getstream?id=252b8131b515e6ef03b72e350259bff9c17aee2d
-#EXTINF:-1 tvg-id="1x2 Caballero Luna" tvg-logo="https://es.web.img3.acsta.net/pictures/22/03/11/14/40/2751057.jpg" group-title="Caballero Luna"1x2 Caballero Luna
+#EXTINF:-1 tvg-id="1x2 Caballero Luna" tvg-logo="https://es.web.img3.acsta.net/pictures/22/03/11/14/40/2751057.jpg" group-title="Series"1x2 Caballero Luna
 http://192.168.1.22:6878/ace/getstream?id=a082fe769d2f914aa4f1c0d94c20bba4d491b1e9
-#EXTINF:-1 tvg-id="1x3 Caballero Luna" tvg-logo="https://es.web.img3.acsta.net/pictures/22/03/11/14/40/2751057.jpg" group-title="Caballero Luna"1x3 Caballero Luna
+#EXTINF:-1 tvg-id="1x3 Caballero Luna" tvg-logo="https://es.web.img3.acsta.net/pictures/22/03/11/14/40/2751057.jpg" group-title="Series"1x3 Caballero Luna
 http://192.168.1.22:6878/ace/getstream?id=d97f7e129f2daac23bd2a0e30ac549bff24284c2
-#EXTINF:-1 tvg-id="1x4 Caballero Luna" tvg-logo="https://es.web.img3.acsta.net/pictures/22/03/11/14/40/2751057.jpg" group-title="Caballero Luna"1x4 Caballero Luna
+#EXTINF:-1 tvg-id="1x4 Caballero Luna" tvg-logo="https://es.web.img3.acsta.net/pictures/22/03/11/14/40/2751057.jpg" group-title="Series"1x4 Caballero Luna
 http://192.168.1.22:6878/ace/getstream?id=3cdfe7788decd15ff68c4dd5f827f3ca54ef8dbd
-#EXTINF:-1 tvg-id="1x5 Caballero Luna" tvg-logo="https://es.web.img3.acsta.net/pictures/22/03/11/14/40/2751057.jpg" group-title="Caballero Luna"1x5 Caballero Luna
+#EXTINF:-1 tvg-id="1x5 Caballero Luna" tvg-logo="https://es.web.img3.acsta.net/pictures/22/03/11/14/40/2751057.jpg" group-title="Series"1x5 Caballero Luna
 http://192.168.1.22:6878/ace/getstream?id=ffd5c9da17b7eb04467465f0fb6836d7e49d4f8c
-#EXTINF:-1 tvg-id="1x6 Caballero Luna" tvg-logo="https://es.web.img3.acsta.net/pictures/22/03/11/14/40/2751057.jpg" group-title="Caballero Luna"1x6 Caballero Luna
+#EXTINF:-1 tvg-id="1x6 Caballero Luna" tvg-logo="https://es.web.img3.acsta.net/pictures/22/03/11/14/40/2751057.jpg" group-title="Series"1x6 Caballero Luna
 http://192.168.1.22:6878/ace/getstream?id=d26e52b585f3382e50d24a406bcfafdd0e00ccbe
 #EXTINF:-1 tvg-id="Iron Man" tvg-logo="https://www.eslahoradelastortas.com/blog/media/2020/03/dcufbt6-d96c9fcc-bd4f-4d56-9882-c027728b6e36.png" group-title="Marvel"Iron Man
 http://192.168.1.22:6878/ace/getstream?id=fddb23ee00f64a5ed50067e484b81bf776dbbd0b
