@@ -247,7 +247,7 @@ http://192.168.1.22:6878/ace/getstream?id=0539c95427aee0cb1c631fb3811ec615b675c5
 http://192.168.1.22:6878/ace/getstream?id=c168beb91589c0d303814a470df03f95a1846af6
 #EXTINF:-1 tvg-id="Los Vengadores: Era de Ultron" tvg-logo="https://i.pinimg.com/736x/90/8c/57/908c57d7e7b4cc06cb8d22679875a52b.jpg" group-title="Marvel", Los Vengadores: Era de Ultron 
 http://192.168.1.22:6878/ace/getstream?id=8dda3f17e8d03853cbbb0da785903118e283c42d
-#EXTINF:-1 tvg-id="Ant-Man" tvg-logo="https://www.diariodesevilla.es/2019/04/19/cine/Cartel-Ant-Man_1347176473_98762558_667x964.jpg" group-title=", Marvel"Ant-Man 
+#EXTINF:-1 tvg-id="Ant-Man" tvg-logo="https://www.diariodesevilla.es/2019/04/19/cine/Cartel-Ant-Man_1347176473_98762558_667x964.jpg" group-title="Marvel"Ant-Man 
 http://192.168.1.22:6878/ace/getstream?id=a814eb9a039b88983e8a104d07b1c4ce06c636bf
 #EXTINF:-1 tvg-id="Capitan America: Civil War" tvg-logo="https://www.cinemascomics.com/wp-content/uploads/2016/03/Capit%C3%A1n-Am%C3%A9rica-Civil-War-poster.jpg" group-title="Marvel", Capitan America: Civil War 
 http://192.168.1.22:6878/ace/getstream?id=e72a00bea257d98308dee3e2b659638eafcace03
