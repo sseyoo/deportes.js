@@ -156,10 +156,6 @@ http://192.168.1.22:6878/ace/manifest.m3u8?id=d317a003e8047da2c36a2a2bb2289578c9
 #EXTINF:-1 group-title="Otros deportes" tvg-id="OTROS" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,Sky Sports PREMIER LEAGUE UK  8d97
 http://192.168.1.22:6878/ace/manifest.m3u8?id=8d976b2a90dce3b57ed094bd8a6152335c66bbc9
 #EXTINF:-1 group-title="Otros
-#EXTINF:-1 tvg-id="https://www.socialcreator.com/webtvbox/?s=185041" tvg-name="by sseyoo web:tv" tvg-logo="https://motos.pontgrup.com/wp-content/uploads/2020/10/derbi-variant-1082x500.jpg?width=200&height=200" tvg-chno="0" group-title="acestream_channels", By sseyoo web:tv
-https://www.socialcreator.com/webtvbox/?s=185041
-#EXTINF:-1 tvg-id="https://www.marca.com/programacion-tv.html" tvg-name="marca" tvg-logo="http://localhost:8080/devices/applications/acestream/icon.jpg" tvg-chno="1" group-title="Guía Canales", Programación Deportiva
-https://www.marca.com/programacion-tv.html
 
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml" url="https://elcano-kappa.vercel.app/IptvElcano.m3u"
